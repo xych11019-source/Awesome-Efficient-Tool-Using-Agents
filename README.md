@@ -124,7 +124,7 @@ Pre-executes likely future interactions and only keeps them if later reasoning v
 
 > Surveys, overviews, and seminal foundations for tool-using and agentic LLM systems.
 
-- **[A survey on the optimization of large language model-based agents][https://arxiv.org/abs/2503.12434]** (*2026*) `ACM Computing Surveys`
+- **[A survey on the optimization of large language model-based agents]（https://arxiv.org/abs/2503.12434**） (*2026*) `ACM Computing Surveys`
   
   > Focus: survey.
   
@@ -246,7 +246,7 @@ Pre-executes likely future interactions and only keeps them if later reasoning v
   
   > Focus: tool use.
   
-- **Toolformer: Language Models Can Teach Themselves to Use Tools(https://arxiv.org/abs/2302.04761)** (*2023*) `NeurIPS`
+- **[Toolformer: Language Models Can Teach Themselves to Use Tools](https://arxiv.org/abs/2302.04761)** (*2023*) `NeurIPS`
   
   > Focus: tool use.
   
@@ -282,7 +282,7 @@ Pre-executes likely future interactions and only keeps them if later reasoning v
 - **[Memtool: Optimizing short-term memory management for dynamic tool calling in llm agent multi-turn conversations](https://arxiv.org/abs/2507.21428)** (*2025*) `arXiv`
   > Focus: tool use, memory, multi-turn interaction.
 
-- **[Concise and precise context compression for tool-using language models](https://arxiv.org/abs/2407.02043**) (*2024*) `ACL`
+- **[Concise and precise context compression for tool-using language models](https://arxiv.org/abs/2407.02043)** (*2024*) `ACL`
   
   > Focus: tool use, context management.
   
@@ -309,7 +309,7 @@ Pre-executes likely future interactions and only keeps them if later reasoning v
   
   > Focus: tool use, planning.
   
-- **[Efficient tool use with chain-of-abstraction reasoning](https://arxiv.org/abs/2401.17464**) (*2025*) `ACL`
+- **[Efficient tool use with chain-of-abstraction reasoning](https://arxiv.org/abs/2401.17464) **(2025) `ACL`
   
   > Focus: tool use, reasoning.
   
@@ -386,7 +386,7 @@ Pre-executes likely future interactions and only keeps them if later reasoning v
   
   > Focus: tool use, edge deployment.
   
-- **[Smartcal: An approach to self-aware tool-use evaluation and calibration](https://arxiv.org/abs/2412.12151**) (*2024*) `EMNLP`
+- **[Smartcal: An approach to self-aware tool-use evaluation and calibration](https://arxiv.org/abs/2412.12151)** (*2024*) `EMNLP`
   
   > Focus: tool use, calibration.
 
@@ -424,17 +424,18 @@ Pre-executes likely future interactions and only keeps them if later reasoning v
 - **[Break chatbot speed limits with speculative tool calls](https://incident.io/building-with-ai/speculative-tool-calling)** (*2025*) `Blog`
   > Focus: tool use, speculative execution.
 
-- **[Divide-then-aggregate: An efficient tool learning method via parallel tool invocation](https://arxiv.org/abs/2501.12432**) (*2025*) `ACL`
+- **[Divide-then-aggregate: An efficient tool learning method via parallel tool invocation](https://arxiv.org/abs/2501.12432)** (*2025*) `ACL`
   
   > Focus: tool use, parallel execution.
   
-- **[Efficient Function Orchestration for Large Language Models](https://arxiv.org/abs/2504.14872**) (*2025*) `IEEE Transactions on Software Engineering`
+- **[Efficient Function Orchestration for Large Language Models](https://arxiv.org/abs/2504.14872)** (*2025*) `IEEE Transactions on Software Engineering`
   
   > Focus: orchestration.
   
 - **[Flash-searcher: Fast and effective web agents via dag-based parallel execution](https://arxiv.org/abs/2509.25301)** (*2025*) `arXiv`
+  
   > Focus: parallel execution, web agents.
-
+  
 - **[GhostShell: Streaming LLM Function Calls for Concurrent Embodied Programming](https://arxiv.org/abs/2508.05298)** (*2025*) `arXiv`
   > Focus: streaming.
 
@@ -453,7 +454,7 @@ Pre-executes likely future interactions and only keeps them if later reasoning v
 - **[Stream rag: Instant and accurate spoken dialogue systems with streaming tool usage](https://arxiv.org/abs/2510.02044)** (*2025*) `arXiv`
   > Focus: tool use, streaming.
 
-- **[An llm compiler for parallel function calling](https://arxiv.org/abs/2312.04511**) (*2024*) `Forty-first International Conference on Machine Learning`
+- **[An llm compiler for parallel function calling](https://arxiv.org/abs/2312.04511)** (*2024*) `Forty-first International Conference on Machine Learning`
   
   > Focus: function calling, parallel execution.
   
@@ -477,7 +478,7 @@ Pre-executes likely future interactions and only keeps them if later reasoning v
   
   > Focus: speculative execution.
   
-- **Tool Cache Agent: Accelerating LLM Agent Through Intelligent Tool Call Caching** (*2025*) `Manuscript`
+- **[Tool Cache Agent: Accelerating LLM Agent Through Intelligent Tool Call Caching](https://openreview.net/forum?id=tX3YcbNa5w)** (*2025*) `Manuscript`
   
   > Focus: tool use, caching.
 
