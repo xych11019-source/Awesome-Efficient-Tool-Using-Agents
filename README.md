@@ -124,7 +124,7 @@ Pre-executes likely future interactions and only keeps them if later reasoning v
 
 > Surveys, overviews, and seminal foundations for tool-using and agentic LLM systems.
 
-- **[A survey on the optimization of large language model-based agents]（https://arxiv.org/abs/2503.12434**） (*2026*) `ACM Computing Surveys`
+- **[A survey on the optimization of large language model-based agents](https://arxiv.org/abs/2503.12434） (*2026*) `ACM Computing Surveys`
   
   > Focus: survey.
   
