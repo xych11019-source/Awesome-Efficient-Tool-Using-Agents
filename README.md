@@ -123,7 +123,7 @@ Pre-executes likely future interactions and only keeps them if later reasoning v
 
 > Methods for tool learning, API grounding, tool discovery, retrieval, and selection.
 
-- **[AutoTool: Efficient tool selection for large language model agents](AutoTool: Efficient tool selection for large language model agents)** (*2026*) `AAAI`
+- **[AutoTool: Efficient tool selection for large language model agents](https://arxiv.org/abs/2503.12434)** (*2026*) `AAAI`
   
 - **[SkillCraft: Can LLM Agents Learn to Use Tools Skillfully?](https://arxiv.org/abs/2603.00718)** (*2026*) `arXiv`
   
