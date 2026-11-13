@@ -1,0 +1,266 @@
+[
+  {
+    "stage": "Context",
+    "subcategory": "Tool Set Compression",
+    "approach": "Retrieval-Based Compression",
+    "ids": [
+      25,
+      26,
+      27,
+      19,
+      20
+    ]
+  },
+  {
+    "stage": "Context",
+    "subcategory": "Tool Set Compression",
+    "approach": "Selector-Based Compression",
+    "ids": [
+      29,
+      30,
+      21,
+      22
+    ]
+  },
+  {
+    "stage": "Context",
+    "subcategory": "Tool Set Compression",
+    "approach": "Hierarchical Compression",
+    "ids": [
+      31,
+      23,
+      28,
+      24
+    ]
+  },
+  {
+    "stage": "Context",
+    "subcategory": "Tool Description Compression",
+    "approach": "Textual Compression",
+    "ids": [
+      36,
+      38,
+      32,
+      33,
+      34
+    ]
+  },
+  {
+    "stage": "Context",
+    "subcategory": "Tool Description Compression",
+    "approach": "Deferred Schema Exposure",
+    "ids": [
+      37,
+      35,
+      39
+    ]
+  },
+  {
+    "stage": "Context",
+    "subcategory": "History Compression",
+    "approach": "Trajectory Curation",
+    "ids": [
+      54,
+      40,
+      50,
+      41,
+      42,
+      51,
+      43,
+      44
+    ]
+  },
+  {
+    "stage": "Context",
+    "subcategory": "History Compression",
+    "approach": "State Extraction",
+    "ids": [
+      52,
+      45,
+      46,
+      47,
+      53,
+      48,
+      49
+    ]
+  },
+  {
+    "stage": "Calling",
+    "subcategory": "Eligibility-Aware Calling",
+    "approach": "Necessity Assessment",
+    "ids": [
+      60,
+      56,
+      55,
+      57,
+      13
+    ]
+  },
+  {
+    "stage": "Calling",
+    "subcategory": "Eligibility-Aware Calling",
+    "approach": "Availability Assessment",
+    "ids": [
+      61,
+      58,
+      59
+    ]
+  },
+  {
+    "stage": "Calling",
+    "subcategory": "Cost-Aware Calling",
+    "approach": "Reward-Driven Optimization",
+    "ids": [
+      66,
+      67,
+      12,
+      62,
+      63
+    ]
+  },
+  {
+    "stage": "Calling",
+    "subcategory": "Cost-Aware Calling",
+    "approach": "Budget-Driven Optimization",
+    "ids": [
+      70,
+      65,
+      68,
+      69,
+      64
+    ]
+  },
+  {
+    "stage": "Reasoning",
+    "subcategory": "Trajectory Optimization",
+    "approach": "Structured Exploration",
+    "ids": [
+      85,
+      86,
+      83,
+      71,
+      72,
+      73,
+      74,
+      75,
+      76,
+      77
+    ]
+  },
+  {
+    "stage": "Reasoning",
+    "subcategory": "Trajectory Optimization",
+    "approach": "Policy Refinement",
+    "ids": [
+      84,
+      80,
+      78,
+      81,
+      79,
+      82
+    ]
+  },
+  {
+    "stage": "Reasoning",
+    "subcategory": "Reasoning Reuse",
+    "approach": "Plan Caching",
+    "ids": [
+      92,
+      87,
+      93,
+      88,
+      89,
+      90,
+      91
+    ]
+  },
+  {
+    "stage": "Reasoning",
+    "subcategory": "Reasoning Reuse",
+    "approach": "Reasoning Distillation",
+    "ids": [
+      94,
+      97,
+      95,
+      96
+    ]
+  },
+  {
+    "stage": "Execution",
+    "subcategory": "Results Caching",
+    "approach": "Tool-Level Caching",
+    "ids": [
+      106,
+      105,
+      104,
+      98,
+      99,
+      100
+    ]
+  },
+  {
+    "stage": "Execution",
+    "subcategory": "Results Caching",
+    "approach": "System-Level Caching",
+    "ids": [
+      101,
+      102,
+      103
+    ]
+  },
+  {
+    "stage": "Execution",
+    "subcategory": "Parallel Execution",
+    "approach": "Decoding-Tool Parallelism",
+    "ids": [
+      113,
+      120,
+      107,
+      121,
+      108,
+      109,
+      110,
+      114
+    ]
+  },
+  {
+    "stage": "Execution",
+    "subcategory": "Parallel Execution",
+    "approach": "Inter-Tool Parallelism",
+    "ids": [
+      122,
+      130,
+      115,
+      116,
+      117,
+      118,
+      119,
+      111
+    ]
+  },
+  {
+    "stage": "Execution",
+    "subcategory": "Speculative Execution",
+    "approach": "Action-Level Speculation",
+    "ids": [
+      127,
+      123,
+      124,
+      125,
+      18
+    ]
+  },
+  {
+    "stage": "Execution",
+    "subcategory": "Speculative Execution",
+    "approach": "System-Level Speculation",
+    "ids": [
+      128,
+      17,
+      126,
+      129,
+      1,
+      2
+    ]
+  }
+]

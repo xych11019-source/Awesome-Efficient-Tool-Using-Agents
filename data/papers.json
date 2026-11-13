@@ -1,0 +1,3274 @@
+[
+  {
+    "id": 1,
+    "title": "Break chatbot speed limits with speculative tool calls",
+    "authors": "Kurtis, L. K",
+    "year": 2025,
+    "citation": "Kurtis, L. K. 2025. Break chatbot speed limits with speculative tool calls.",
+    "url": "",
+    "searchUrl": "https://scholar.google.com/scholar?q=Break%20chatbot%20speed%20limits%20with%20speculative%20tool%20calls",
+    "stage": "Execution",
+    "subcategory": "Speculative Execution",
+    "approach": "System-Level Speculation",
+    "method": "Speculative Tool Calls (industry)",
+    "code": "",
+    "venue": "",
+    "resources": [],
+    "learning": "",
+    "scenario": "",
+    "linkType": "Search",
+    "notes": [
+      "Direct paper URL not present in the extracted bibliography; title search provided.",
+      "Source prose cites Curtis (2025), but its reference entry reads Kurtis, L. K. (2025). Retained as listed."
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Speculative tool calling: How to build sub-second voice agents",
+    "authors": "GetStream.io",
+    "year": 2025,
+    "citation": "GetStream.io. Speculative tool calling: How to build sub-second voice agents. 2025.",
+    "url": "",
+    "searchUrl": "https://scholar.google.com/scholar?q=Speculative%20tool%20calling%3A%20How%20to%20build%20sub-second%20voice%20agents",
+    "stage": "Execution",
+    "subcategory": "Speculative Execution",
+    "approach": "System-Level Speculation",
+    "method": "Speculative Tool Calling (industry)",
+    "code": "",
+    "venue": "",
+    "resources": [],
+    "learning": "",
+    "scenario": "",
+    "linkType": "Search",
+    "notes": [
+      "Direct paper URL not present in the extracted bibliography; title search provided."
+    ]
+  },
+  {
+    "id": 3,
+    "title": "React: Synergizing reasoning and acting in language models",
+    "authors": "Yao, S., J. Zhao, D. Yu, N. Du, I. Shafran, K.R. Narasimhan, and Y. Cao",
+    "year": 2022,
+    "citation": "Yao, S., J. Zhao, D. Yu, N. Du, I. Shafran, K.R. Narasimhan, and Y. Cao. 2022. React: Synergizing reasoning and acting in language models. Proceedings of the The eleventh international conference on learning representations.",
+    "url": "",
+    "searchUrl": "https://scholar.google.com/scholar?q=React%3A%20Synergizing%20reasoning%20and%20acting%20in%20language%20models",
+    "stage": "Background",
+    "subcategory": "Background & related surveys",
+    "approach": "",
+    "method": "React",
+    "code": "",
+    "venue": "",
+    "resources": [],
+    "learning": "",
+    "scenario": "",
+    "linkType": "Search",
+    "notes": [
+      "Direct paper URL not present in the extracted bibliography; title search provided."
+    ]
+  },
+  {
+    "id": 4,
+    "title": "Toolformer: Language models can teach themselves to use tools",
+    "authors": "Schick, T., J. Dwivedi-Yu, R. Dessì, R. Raileanu, M. Lomeli, E. Hambro, L. Zettlemoyer, N. Cancedda, and T. Scialom",
+    "year": 2023,
+    "citation": "Schick, T., J. Dwivedi-Yu, R. Dessì, R. Raileanu, M. Lomeli, E. Hambro, L. Zettlemoyer, N. Cancedda, and T. Scialom. 2023. Toolformer: Language models can teach themselves to use tools. Advances in neural information processing systems 36: 68539–68551.",
+    "url": "",
+    "searchUrl": "https://scholar.google.com/scholar?q=Toolformer%3A%20Language%20models%20can%20teach%20themselves%20to%20use%20tools",
+    "stage": "Background",
+    "subcategory": "Background & related surveys",
+    "approach": "",
+    "method": "Toolformer",
+    "code": "",
+    "venue": "",
+    "resources": [],
+    "learning": "",
+    "scenario": "",
+    "linkType": "Search",
+    "notes": [
+      "Direct paper URL not present in the extracted bibliography; title search provided."
+    ]
+  },
+  {
+    "id": 5,
+    "title": "Gorilla: Large language model connected with massive apis",
+    "authors": "Patil, S.G., T. Zhang, X. Wang, and J.E. Gonzalez",
+    "year": 2024,
+    "citation": "Patil, S.G., T. Zhang, X. Wang, and J.E. Gonzalez. 2024. Gorilla: Large language model connected with massive apis. Advances in Neural Information Processing Systems 37: 126544–126565.",
+    "url": "",
+    "searchUrl": "https://scholar.google.com/scholar?q=Gorilla%3A%20Large%20language%20model%20connected%20with%20massive%20apis",
+    "stage": "Background",
+    "subcategory": "Background & related surveys",
+    "approach": "",
+    "method": "Gorilla",
+    "code": "",
+    "venue": "",
+    "resources": [],
+    "learning": "",
+    "scenario": "",
+    "linkType": "Search",
+    "notes": [
+      "Direct paper URL not present in the extracted bibliography; title search provided."
+    ]
+  },
+  {
+    "id": 6,
+    "title": "Webgpt: Browser-assisted question-answering with human feedback",
+    "authors": "Nakano, R., J. Hilton, S. Balaji, J. Wu, L. Ouyang, C. Kim, C. Hesse, S. Jain, V. Kosaraju, W. Saunders, and et al",
+    "year": 2021,
+    "citation": "Nakano, R., J. Hilton, S. Balaji, J. Wu, L. Ouyang, C. Kim, C. Hesse, S. Jain, V. Kosaraju, W. Saunders, and et al. 2021. Webgpt: Browser-assisted question-answering with human feedback. arXiv arXiv:2112.09332.",
+    "url": "https://arxiv.org/abs/2112.09332",
+    "searchUrl": "https://scholar.google.com/scholar?q=Webgpt%3A%20Browser-assisted%20question-answering%20with%20human%20feedback",
+    "stage": "Background",
+    "subcategory": "Background & related surveys",
+    "approach": "",
+    "method": "Webgpt",
+    "code": "",
+    "venue": "",
+    "resources": [],
+    "learning": "",
+    "scenario": "",
+    "linkType": "Paper",
+    "notes": []
+  },
+  {
+    "id": 7,
+    "title": "MRKL Systems: A modular, neuro-symbolic architecture that combines large language models, external knowledge sources and discrete reasoning",
+    "authors": "Karpas, E., O. Abend, Y. Belinkov, B. Lenz, O. Lieber, N. Ratner, Y. Shoham, H. Bata, Y. Levine, K. Leyton-Brown, and et al",
+    "year": 2022,
+    "citation": "Karpas, E., O. Abend, Y. Belinkov, B. Lenz, O. Lieber, N. Ratner, Y. Shoham, H. Bata, Y. Levine, K. Leyton-Brown, and et al. 2022. MRKL Systems: A modular, neuro-symbolic architecture that combines large language models, external knowledge sources and discrete reasoning. arXiv arXiv:2205.00445.",
+    "url": "https://arxiv.org/abs/2205.00445",
+    "searchUrl": "https://scholar.google.com/scholar?q=MRKL%20Systems%3A%20A%20modular%2C%20neuro-symbolic%20architecture%20that%20combines%20large%20language%20models%2C%20external%20knowledge%20sources%20and%20discrete%20reasoning",
+    "stage": "Background",
+    "subcategory": "Background & related surveys",
+    "approach": "",
+    "method": "MRKL Systems",
+    "code": "",
+    "venue": "",
+    "resources": [],
+    "learning": "",
+    "scenario": "",
+    "linkType": "Paper",
+    "notes": []
+  },
+  {
+    "id": 8,
+    "title": "Pal: Program-aided language models",
+    "authors": "Gao, L., A. Madaan, S. Zhou, U. Alon, P. Liu, Y. Yang, J. Callan, and G. Neubig",
+    "year": 2023,
+    "citation": "Gao, L., A. Madaan, S. Zhou, U. Alon, P. Liu, Y. Yang, J. Callan, and G. Neubig. 2023. Pal: Program-aided language models. Proceedings of the International conference on machine learning. PMLR; pp. 10764–10799.",
+    "url": "",
+    "searchUrl": "https://scholar.google.com/scholar?q=Pal%3A%20Program-aided%20language%20models",
+    "stage": "Background",
+    "subcategory": "Background & related surveys",
+    "approach": "",
+    "method": "Pal",
+    "code": "",
+    "venue": "",
+    "resources": [],
+    "learning": "",
+    "scenario": "",
+    "linkType": "Search",
+    "notes": [
+      "Direct paper URL not present in the extracted bibliography; title search provided."
+    ]
+  },
+  {
+    "id": 9,
+    "title": "Toolsandbox: A stateful, conversational, interactive evaluation benchmark for llm tool use capabilities",
+    "authors": "Lu, J., T. Holleis, Y. Zhang, B. Aumayer, F. Nan, H. Bai, S. Ma, S. Ma, M. Li, G. Yin, and et al",
+    "year": 2025,
+    "citation": "Lu, J., T. Holleis, Y. Zhang, B. Aumayer, F. Nan, H. Bai, S. Ma, S. Ma, M. Li, G. Yin, and et al. 2025. Toolsandbox: A stateful, conversational, interactive evaluation benchmark for llm tool use capabilities. Proceedings of the Findings of the Association for Computational Linguistics: NAACL 2025: 1160–1183.",
+    "url": "",
+    "searchUrl": "https://scholar.google.com/scholar?q=Toolsandbox%3A%20A%20stateful%2C%20conversational%2C%20interactive%20evaluation%20benchmark%20for%20llm%20tool%20use%20capabilities",
+    "stage": "Background",
+    "subcategory": "Background & related surveys",
+    "approach": "",
+    "method": "Toolsandbox",
+    "code": "",
+    "venue": "",
+    "resources": [],
+    "learning": "",
+    "scenario": "",
+    "linkType": "Search",
+    "notes": [
+      "Direct paper URL not present in the extracted bibliography; title search provided."
+    ]
+  },
+  {
+    "id": 10,
+    "title": "Rethinking Stateful Tool Use in Multi-Turn Dialogues: Benchmarks and Challenges",
+    "authors": "Wang, H., W. Huang, Y. Wang, Y. Xi, J. Lu, H. Zhang, N. Hu, Z. Liu, J.Z. Pan, and K.F. Wong",
+    "year": 2025,
+    "citation": "Wang, H., W. Huang, Y. Wang, Y. Xi, J. Lu, H. Zhang, N. Hu, Z. Liu, J.Z. Pan, and K.F. Wong. 2025. Rethinking Stateful Tool Use in Multi-Turn Dialogues: Benchmarks and Challenges. Proceedings of the Findings of the Association for Computational Linguistics: ACL 2025: 5433–5453.",
+    "url": "",
+    "searchUrl": "https://scholar.google.com/scholar?q=Rethinking%20Stateful%20Tool%20Use%20in%20Multi-Turn%20Dialogues%3A%20Benchmarks%20and%20Challenges",
+    "stage": "Background",
+    "subcategory": "Background & related surveys",
+    "approach": "",
+    "method": "Rethinking Stateful Tool Use in Multi-Turn Dialogues",
+    "code": "",
+    "venue": "",
+    "resources": [],
+    "learning": "",
+    "scenario": "",
+    "linkType": "Search",
+    "notes": [
+      "Direct paper URL not present in the extracted bibliography; title search provided."
+    ]
+  },
+  {
+    "id": 11,
+    "title": "The berkeley function calling leaderboard (bfcl): From tool use to agentic evaluation of large language models",
+    "authors": "Patil, S.G., H. Mao, F. Yan, C.C.J. Ji, V. Suresh, I. Stoica, and J.E. Gonzalez",
+    "year": 2025,
+    "citation": "Patil, S.G., H. Mao, F. Yan, C.C.J. Ji, V. Suresh, I. Stoica, and J.E. Gonzalez. 2025. The berkeley function calling leaderboard (bfcl): From tool use to agentic evaluation of large language models. Proceedings of the Forty-second International Conference on Machine Learning.",
+    "url": "",
+    "searchUrl": "https://scholar.google.com/scholar?q=The%20berkeley%20function%20calling%20leaderboard%20%28bfcl%29%3A%20From%20tool%20use%20to%20agentic%20evaluation%20of%20large%20language%20models",
+    "stage": "Background",
+    "subcategory": "Background & related surveys",
+    "approach": "",
+    "method": "The berkeley function calling leaderboard (bfcl)",
+    "code": "",
+    "venue": "",
+    "resources": [],
+    "learning": "",
+    "scenario": "",
+    "linkType": "Search",
+    "notes": [
+      "Direct paper URL not present in the extracted bibliography; title search provided."
+    ]
+  },
+  {
+    "id": 12,
+    "title": "Alignment for efficient tool calling of large language models",
+    "authors": "Xu, H., Z. Wang, Z. Zhu, L. Pan, X. Chen, S. Fan, L. Chen, and K. Yu",
+    "year": 2025,
+    "citation": "Xu, H., Z. Wang, Z. Zhu, L. Pan, X. Chen, S. Fan, L. Chen, and K. Yu. 2025. Alignment for efficient tool calling of large language models. Proceedings of the Proceedings of the 2025 Conference on Empirical Methods in Natural Language Processing; pp. 17787–17803.",
+    "url": "",
+    "searchUrl": "https://scholar.google.com/scholar?q=Alignment%20for%20efficient%20tool%20calling%20of%20large%20language%20models",
+    "stage": "Calling",
+    "subcategory": "Cost-Aware Calling",
+    "approach": "Reward-Driven Optimization",
+    "method": "Xu et al.",
+    "code": "",
+    "venue": "EMNLP 2025",
+    "resources": [
+      "Latency",
+      "Calls",
+      "Cost"
+    ],
+    "learning": "SFT",
+    "scenario": "General",
+    "linkType": "Search",
+    "notes": [
+      "Direct paper URL not present in the extracted bibliography; title search provided."
+    ]
+  },
+  {
+    "id": 13,
+    "title": "Self Knowledge-Tracing for Tool Use (SKT-Tool): Helping LLM Agents Understand Their Capabilities in Tool Use",
+    "authors": "Vigel, J., R. Cai, E. Chen, A. Neema, A. Liao, K. Zhu, and S. O’Brien",
+    "year": 2025,
+    "citation": "Vigel, J., R. Cai, E. Chen, A. Neema, A. Liao, K. Zhu, and S. O’Brien. 2025. Self Knowledge-Tracing for Tool Use (SKT-Tool): Helping LLM Agents Understand Their Capabilities in Tool Use. Proceedings of the The Sixth Workshop on Insights from Negative Results in NLP; pp. 150–156.",
+    "url": "",
+    "searchUrl": "https://scholar.google.com/scholar?q=Self%20Knowledge-Tracing%20for%20Tool%20Use%20%28SKT-Tool%29%3A%20Helping%20LLM%20Agents%20Understand%20Their%20Capabilities%20in%20Tool%20Use",
+    "stage": "Calling",
+    "subcategory": "Eligibility-Aware Calling",
+    "approach": "Necessity Assessment",
+    "method": "SKT-Tool",
+    "code": "",
+    "venue": "Insights @ ACL 2025",
+    "resources": [
+      "Calls",
+      "Cost"
+    ],
+    "learning": "Training-free",
+    "scenario": "General",
+    "linkType": "Search",
+    "notes": [
+      "Direct paper URL not present in the extracted bibliography; title search provided."
+    ]
+  },
+  {
+    "id": 14,
+    "title": "When Do Tools and Planning Help LLMs Think? A Cost-and Latency-Aware Benchmark",
+    "authors": "Ghoshal, S., and A. Al-Bustami",
+    "year": 2026,
+    "citation": "Ghoshal, S., and A. Al-Bustami. 2026. When Do Tools and Planning Help LLMs Think? A Cost-and Latency-Aware Benchmark. arXiv arXiv:2601.02663.",
+    "url": "https://arxiv.org/abs/2601.02663",
+    "searchUrl": "https://scholar.google.com/scholar?q=When%20Do%20Tools%20and%20Planning%20Help%20LLMs%20Think%3F%20A%20Cost-and%20Latency-Aware%20Benchmark",
+    "stage": "Background",
+    "subcategory": "Background & related surveys",
+    "approach": "",
+    "method": "Ghoshal et al.",
+    "code": "",
+    "venue": "",
+    "resources": [],
+    "learning": "",
+    "scenario": "",
+    "linkType": "Paper",
+    "notes": []
+  },
+  {
+    "id": 15,
+    "title": "Mcpverse: An expansive, real-world benchmark for agentic tool use",
+    "authors": "Lei, F., Y. Yang, W. Sun, and D. Lin",
+    "year": 2025,
+    "citation": "Lei, F., Y. Yang, W. Sun, and D. Lin. 2025. Mcpverse: An expansive, real-world benchmark for agentic tool use. arXiv arXiv:2508.16260.",
+    "url": "https://arxiv.org/abs/2508.16260",
+    "searchUrl": "https://scholar.google.com/scholar?q=Mcpverse%3A%20An%20expansive%2C%20real-world%20benchmark%20for%20agentic%20tool%20use",
+    "stage": "Background",
+    "subcategory": "Background & related surveys",
+    "approach": "",
+    "method": "Mcpverse",
+    "code": "",
+    "venue": "",
+    "resources": [],
+    "learning": "",
+    "scenario": "",
+    "linkType": "Paper",
+    "notes": []
+  },
+  {
+    "id": 16,
+    "title": "Anytool: Self-reflective, hierarchical agents for large-scale api calls",
+    "authors": "Du, Y., F. Wei, and H. Zhang",
+    "year": 2024,
+    "citation": "Du, Y., F. Wei, and H. Zhang. 2024. Anytool: Self-reflective, hierarchical agents for large-scale api calls. arXiv arXiv:2402.04253.",
+    "url": "https://arxiv.org/abs/2402.04253",
+    "searchUrl": "https://scholar.google.com/scholar?q=Anytool%3A%20Self-reflective%2C%20hierarchical%20agents%20for%20large-scale%20api%20calls",
+    "stage": "Background",
+    "subcategory": "Background & related surveys",
+    "approach": "",
+    "method": "Anytool",
+    "code": "",
+    "venue": "",
+    "resources": [],
+    "learning": "",
+    "scenario": "",
+    "linkType": "Paper",
+    "notes": []
+  },
+  {
+    "id": 17,
+    "title": "What Limits Agentic Systems Efficiency?",
+    "authors": "Bian, S., M. Yan, A. Jayarajan, G. Pekhimenko, and S. Venkataraman",
+    "year": 2025,
+    "citation": "Bian, S., M. Yan, A. Jayarajan, G. Pekhimenko, and S. Venkataraman. 2025. What Limits Agentic Systems Efficiency? arXiv arXiv:2510.16276.",
+    "url": "https://arxiv.org/abs/2510.16276",
+    "searchUrl": "https://scholar.google.com/scholar?q=What%20Limits%20Agentic%20Systems%20Efficiency%3F",
+    "stage": "Execution",
+    "subcategory": "Speculative Execution",
+    "approach": "System-Level Speculation",
+    "method": "SpecCache",
+    "code": "https://github.com/Waterpine/SpecCache",
+    "venue": "SEA @ NeurIPS 2025",
+    "resources": [
+      "Latency"
+    ],
+    "learning": "Training-free",
+    "scenario": "Web QA",
+    "linkType": "Paper",
+    "notes": []
+  },
+  {
+    "id": 18,
+    "title": "Reducing Latency of LLM Search Agent via Speculation-based Algorithm-System Co-Design",
+    "authors": "Huang, Z., W. Zeng, T. Fu, T. Liu, Y. Sun, K. Hong, X. Yang, C. Liu, Y. Li, Q. Zhang, and et al",
+    "year": 2025,
+    "citation": "Huang, Z., W. Zeng, T. Fu, T. Liu, Y. Sun, K. Hong, X. Yang, C. Liu, Y. Li, Q. Zhang, and et al. 2025. Reducing Latency of LLM Search Agent via Speculation-based Algorithm-System Co-Design. arXiv arXiv:2511.20048.",
+    "url": "https://arxiv.org/abs/2511.20048",
+    "searchUrl": "https://scholar.google.com/scholar?q=Reducing%20Latency%20of%20LLM%20Search%20Agent%20via%20Speculation-based%20Algorithm-System%20Co-Design",
+    "stage": "Execution",
+    "subcategory": "Speculative Execution",
+    "approach": "Action-Level Speculation",
+    "method": "SPAgent",
+    "code": "",
+    "venue": "Preprint 2025",
+    "resources": [
+      "Latency"
+    ],
+    "learning": "Training-free",
+    "scenario": "Search",
+    "linkType": "Paper",
+    "notes": []
+  },
+  {
+    "id": 19,
+    "title": "Graph-of-Skills: Dependency-Aware Structural Retrieval for Massive Agent Skills",
+    "authors": "Liu, D., Z. Li, H. Du, X. Wu, S. Gui, Y. Kuang, and L. Sun",
+    "year": 2026,
+    "citation": "Liu, D., Z. Li, H. Du, X. Wu, S. Gui, Y. Kuang, and L. Sun. Graph-of-Skills: Dependency-Aware Structural Retrieval for Massive Agent Skills, 2026. arXiv arXiv:cs.",
+    "url": "",
+    "searchUrl": "https://scholar.google.com/scholar?q=Graph-of-Skills%3A%20Dependency-Aware%20Structural%20Retrieval%20for%20Massive%20Agent%20Skills",
+    "stage": "Context",
+    "subcategory": "Tool Set Compression",
+    "approach": "Retrieval-Based Compression",
+    "method": "Graph-of-Skills",
+    "code": "https://github.com/davidliuk/graph-of-skills",
+    "venue": "Preprint 2026",
+    "resources": [
+      "Tokens",
+      "Latency"
+    ],
+    "learning": "Training-free",
+    "scenario": "General",
+    "linkType": "Search",
+    "notes": [
+      "Direct paper URL not present in the extracted bibliography; title search provided."
+    ]
+  },
+  {
+    "id": 20,
+    "title": "SkillSight: Calibrating Generic Content Bias for Skill Retrieval",
+    "authors": "Xiao, J., B. Li, X. Li, J. Li, J. Jie, X. Liu, M. Jun, C. Wang, N. Tashi, and J. Yu",
+    "year": 2026,
+    "citation": "Xiao, J., B. Li, X. Li, J. Li, J. Jie, X. Liu, M. Jun, C. Wang, N. Tashi, and J. Yu. SkillSight: Calibrating Generic Content Bias for Skill Retrieval, 2026. arXiv arXiv:cs.",
+    "url": "",
+    "searchUrl": "https://scholar.google.com/scholar?q=SkillSight%3A%20Calibrating%20Generic%20Content%20Bias%20for%20Skill%20Retrieval",
+    "stage": "Context",
+    "subcategory": "Tool Set Compression",
+    "approach": "Retrieval-Based Compression",
+    "method": "SkillSight",
+    "code": "https://github.com/xiaojinying/SkillSight",
+    "venue": "Preprint 2026",
+    "resources": [
+      "Tokens",
+      "Latency"
+    ],
+    "learning": "Training-free",
+    "scenario": "General",
+    "linkType": "Search",
+    "notes": [
+      "Direct paper URL not present in the extracted bibliography; title search provided."
+    ]
+  },
+  {
+    "id": 21,
+    "title": "NTILC: Neural Tool Invocation via Learned Compression",
+    "authors": "Krikorian, A., Y. Li, and J.J. Corso",
+    "year": 2026,
+    "citation": "Krikorian, A., Y. Li, and J.J. Corso. 2026. NTILC: Neural Tool Invocation via Learned Compression. arXiv arXiv:cs.",
+    "url": "",
+    "searchUrl": "https://scholar.google.com/scholar?q=NTILC%3A%20Neural%20Tool%20Invocation%20via%20Learned%20Compression",
+    "stage": "Context",
+    "subcategory": "Tool Set Compression",
+    "approach": "Selector-Based Compression",
+    "method": "NTILC",
+    "code": "https://github.com/andykr1k/NTILC",
+    "venue": "Preprint 2026",
+    "resources": [
+      "Tokens",
+      "Latency"
+    ],
+    "learning": "Contrastive Learning",
+    "scenario": "General",
+    "linkType": "Search",
+    "notes": [
+      "Direct paper URL not present in the extracted bibliography; title search provided."
+    ]
+  },
+  {
+    "id": 22,
+    "title": "AutoTool: Efficient tool selection for large language model agents",
+    "authors": "Jia, J., and Q. Li",
+    "year": 2026,
+    "citation": "Jia, J., and Q. Li. 2026. AutoTool: Efficient tool selection for large language model agents. Proceedings of the Proceedings of the AAAI Conference on Artificial Intelligence Vol. 40: 31265–31273.",
+    "url": "",
+    "searchUrl": "https://scholar.google.com/scholar?q=AutoTool%3A%20Efficient%20tool%20selection%20for%20large%20language%20model%20agents",
+    "stage": "Context",
+    "subcategory": "Tool Set Compression",
+    "approach": "Selector-Based Compression",
+    "method": "AutoTool",
+    "code": "https://github.com/jiajingyyyyyy/AutoTool",
+    "venue": "AAAI 2026",
+    "resources": [
+      "Tokens",
+      "Latency",
+      "Cost"
+    ],
+    "learning": "Training-free",
+    "scenario": "General",
+    "linkType": "Search",
+    "notes": [
+      "Direct paper URL not present in the extracted bibliography; title search provided."
+    ]
+  },
+  {
+    "id": 23,
+    "title": "SING: Synthetic Intention Graph for Scalable Active Tool Discovery in LLM Agents",
+    "authors": "Xiao, Q., H. Shi, Y. Gao, W. Hu, H. Jing, T. Zheng, B. Xu, Z. Zhang, W. Wang, H. Li, and et al",
+    "year": 2026,
+    "citation": "Xiao, Q., H. Shi, Y. Gao, W. Hu, H. Jing, T. Zheng, B. Xu, Z. Zhang, W. Wang, H. Li, and et al. 2026. SING: Synthetic Intention Graph for Scalable Active Tool Discovery in LLM Agents. arXiv arXiv:cs.",
+    "url": "",
+    "searchUrl": "https://scholar.google.com/scholar?q=SING%3A%20Synthetic%20Intention%20Graph%20for%20Scalable%20Active%20Tool%20Discovery%20in%20LLM%20Agents",
+    "stage": "Context",
+    "subcategory": "Tool Set Compression",
+    "approach": "Hierarchical Compression",
+    "method": "SING",
+    "code": "",
+    "venue": "Preprint 2026",
+    "resources": [
+      "Tokens"
+    ],
+    "learning": "Training-free",
+    "scenario": "General",
+    "linkType": "Search",
+    "notes": [
+      "Direct paper URL not present in the extracted bibliography; title search provided."
+    ]
+  },
+  {
+    "id": 24,
+    "title": "SkillLens: Adaptive Multi-Granularity Skill Reuse for Cost-Efficient LLM Agents",
+    "authors": "Miao, Y., Z. Yu, L. Zhao, B. Zhu, and H. Haque",
+    "year": 2026,
+    "citation": "Miao, Y., Z. Yu, L. Zhao, B. Zhu, and H. Haque. 2026. SkillLens: Adaptive Multi-Granularity Skill Reuse for Cost-Efficient LLM Agents. arXiv arXiv:cs.",
+    "url": "",
+    "searchUrl": "https://scholar.google.com/scholar?q=SkillLens%3A%20Adaptive%20Multi-Granularity%20Skill%20Reuse%20for%20Cost-Efficient%20LLM%20Agents",
+    "stage": "Context",
+    "subcategory": "Tool Set Compression",
+    "approach": "Hierarchical Compression",
+    "method": "SkillLens",
+    "code": "",
+    "venue": "Preprint 2026",
+    "resources": [
+      "Tokens"
+    ],
+    "learning": "Training-free",
+    "scenario": "Coding & Embodied Tasks",
+    "linkType": "Search",
+    "notes": [
+      "Direct paper URL not present in the extracted bibliography; title search provided."
+    ]
+  },
+  {
+    "id": 25,
+    "title": "Dynamic react: Scalable tool selection for large-scale mcp environments",
+    "authors": "Gaurav, N., A. Akarsh, A. Ranjan, and M. Bajaj",
+    "year": 2025,
+    "citation": "Gaurav, N., A. Akarsh, A. Ranjan, and M. Bajaj. 2025. Dynamic react: Scalable tool selection for large-scale mcp environments. arXiv arXiv:2509.20386.",
+    "url": "https://arxiv.org/abs/2509.20386",
+    "searchUrl": "https://scholar.google.com/scholar?q=Dynamic%20react%3A%20Scalable%20tool%20selection%20for%20large-scale%20mcp%20environments",
+    "stage": "Context",
+    "subcategory": "Tool Set Compression",
+    "approach": "Retrieval-Based Compression",
+    "method": "Dynamic ReAct",
+    "code": "",
+    "venue": "Preprint 2025",
+    "resources": [
+      "Tokens"
+    ],
+    "learning": "Training-free",
+    "scenario": "General",
+    "linkType": "Paper",
+    "notes": []
+  },
+  {
+    "id": 26,
+    "title": "ToolSEE: Agent Tool Search Engine for Efficient and Scalable Tool Discovery Using Retrieval",
+    "authors": "Vadlapati, P",
+    "year": 2025,
+    "citation": "Vadlapati, P. 2025. ToolSEE: Agent Tool Search Engine for Efficient and Scalable Tool Discovery Using Retrieval.",
+    "url": "",
+    "searchUrl": "https://scholar.google.com/scholar?q=ToolSEE%3A%20Agent%20Tool%20Search%20Engine%20for%20Efficient%20and%20Scalable%20Tool%20Discovery%20Using%20Retrieval",
+    "stage": "Context",
+    "subcategory": "Tool Set Compression",
+    "approach": "Retrieval-Based Compression",
+    "method": "ToolSEE",
+    "code": "https://github.com/Pro-GenAI/Tool-SEE",
+    "venue": "Preprint 2025",
+    "resources": [
+      "Tokens",
+      "Latency",
+      "Cost"
+    ],
+    "learning": "Training-free",
+    "scenario": "General",
+    "linkType": "Search",
+    "notes": [
+      "Direct paper URL not present in the extracted bibliography; title search provided."
+    ]
+  },
+  {
+    "id": 27,
+    "title": "Dynamic Tool Dependency Retrieval for Efficient Function Calling",
+    "authors": "Patel, B., D. Belli, A. Jalalirad, M. Arnold, A. Ermolov, and B. Major",
+    "year": 2025,
+    "citation": "Patel, B., D. Belli, A. Jalalirad, M. Arnold, A. Ermolov, and B. Major. 2025. Dynamic Tool Dependency Retrieval for Efficient Function Calling. arXiv arXiv:2512.17052.",
+    "url": "https://arxiv.org/abs/2512.17052",
+    "searchUrl": "https://scholar.google.com/scholar?q=Dynamic%20Tool%20Dependency%20Retrieval%20for%20Efficient%20Function%20Calling",
+    "stage": "Context",
+    "subcategory": "Tool Set Compression",
+    "approach": "Retrieval-Based Compression",
+    "method": "DTDR",
+    "code": "",
+    "venue": "NFIR @ AAAI 2026",
+    "resources": [
+      "Tokens",
+      "Latency"
+    ],
+    "learning": "Training-free/SFT",
+    "scenario": "General",
+    "linkType": "Paper",
+    "notes": []
+  },
+  {
+    "id": 28,
+    "title": "Less is more: Optimizing function calling for llm execution on edge devices",
+    "authors": "Paramanayakam, V., A. Karatzas, I. Anagnostopoulos, and D. Stamoulis",
+    "year": 2025,
+    "citation": "Paramanayakam, V., A. Karatzas, I. Anagnostopoulos, and D. Stamoulis. 2025. Less is more: Optimizing function calling for llm execution on edge devices. In Proceedings of the 2025 Design, Automation & Test in Europe Conference (DATE). IEEE: pp. 1–7.",
+    "url": "",
+    "searchUrl": "https://scholar.google.com/scholar?q=Less%20is%20more%3A%20Optimizing%20function%20calling%20for%20llm%20execution%20on%20edge%20devices",
+    "stage": "Context",
+    "subcategory": "Tool Set Compression",
+    "approach": "Hierarchical Compression",
+    "method": "Less-is-More",
+    "code": "",
+    "venue": "DATE 2025",
+    "resources": [
+      "Tokens",
+      "Latency",
+      "Cost"
+    ],
+    "learning": "Training-free",
+    "scenario": "General",
+    "linkType": "Search",
+    "notes": [
+      "Direct paper URL not present in the extracted bibliography; title search provided."
+    ]
+  },
+  {
+    "id": 29,
+    "title": "Automatic Tool Selection to Reduce Large Language Model Latency",
+    "authors": "Robert, D.C., A. Garg, J.V. Punjabi, P.K. Reddy M, N.S. Balani, R. Shah, and et al",
+    "year": 2024,
+    "citation": "Robert, D.C., A. Garg, J.V. Punjabi, P.K. Reddy M, N.S. Balani, R. Shah, and et al. 2024. Automatic Tool Selection to Reduce Large Language Model Latency.",
+    "url": "",
+    "searchUrl": "https://scholar.google.com/scholar?q=Automatic%20Tool%20Selection%20to%20Reduce%20Large%20Language%20Model%20Latency",
+    "stage": "Context",
+    "subcategory": "Tool Set Compression",
+    "approach": "Selector-Based Compression",
+    "method": "ATS",
+    "code": "",
+    "venue": "",
+    "resources": [],
+    "learning": "",
+    "scenario": "",
+    "linkType": "Search",
+    "notes": [
+      "Direct paper URL not present in the extracted bibliography; title search provided."
+    ]
+  },
+  {
+    "id": 30,
+    "title": "Gear: Augmenting language models with generalizable and efficient tool resolution",
+    "authors": "Lu, Y., H. Yu, and D. Khashabi",
+    "year": 2024,
+    "citation": "Lu, Y., H. Yu, and D. Khashabi. 2024. Gear: Augmenting language models with generalizable and efficient tool resolution. Proceedings of the Proceedings of the 18th Conference of the European Chapter of the Association for Computational Linguistics Volume 1: 112–138.",
+    "url": "",
+    "searchUrl": "https://scholar.google.com/scholar?q=Gear%3A%20Augmenting%20language%20models%20with%20generalizable%20and%20efficient%20tool%20resolution",
+    "stage": "Context",
+    "subcategory": "Tool Set Compression",
+    "approach": "Selector-Based Compression",
+    "method": "GEAR",
+    "code": "https://github.com/yining610/GEAR",
+    "venue": "EACL 2024",
+    "resources": [
+      "Latency",
+      "Cost"
+    ],
+    "learning": "Training-free",
+    "scenario": "General",
+    "linkType": "Search",
+    "notes": [
+      "Direct paper URL not present in the extracted bibliography; title search provided."
+    ]
+  },
+  {
+    "id": 31,
+    "title": "Geckopt: Llm system efficiency via intent-based tool selection",
+    "authors": "Fore, M., S. Singh, and D. Stamoulis",
+    "year": 2024,
+    "citation": "Fore, M., S. Singh, and D. Stamoulis. 2024. Geckopt: Llm system efficiency via intent-based tool selection. Proceedings of the Proceedings of the Great Lakes Symposium on VLSI 2024; pp. 353–354.",
+    "url": "",
+    "searchUrl": "https://scholar.google.com/scholar?q=Geckopt%3A%20Llm%20system%20efficiency%20via%20intent-based%20tool%20selection",
+    "stage": "Context",
+    "subcategory": "Tool Set Compression",
+    "approach": "Hierarchical Compression",
+    "method": "GeckOpt",
+    "code": "",
+    "venue": "GLSVLSI 2024",
+    "resources": [
+      "Tokens",
+      "Cost"
+    ],
+    "learning": "Training-free",
+    "scenario": "General",
+    "linkType": "Search",
+    "notes": [
+      "Direct paper URL not present in the extracted bibliography; title search provided."
+    ]
+  },
+  {
+    "id": 32,
+    "title": "Internalizing Tool Knowledge in Small Language Models via QLoRA Fine-Tuning",
+    "authors": "Shemla, Y., A. Yakobe, T. Agarwal, D. Patel, and K.E. Maghraoui",
+    "year": 2026,
+    "citation": "Shemla, Y., A. Yakobe, T. Agarwal, D. Patel, and K.E. Maghraoui. Internalizing Tool Knowledge in Small Language Models via QLoRA Fine-Tuning, 2026. arXiv arXiv:cs.",
+    "url": "",
+    "searchUrl": "https://scholar.google.com/scholar?q=Internalizing%20Tool%20Knowledge%20in%20Small%20Language%20Models%20via%20QLoRA%20Fine-Tuning",
+    "stage": "Context",
+    "subcategory": "Tool Description Compression",
+    "approach": "Textual Compression",
+    "method": "Shemla et al.",
+    "code": "",
+    "venue": "Preprint 2026",
+    "resources": [
+      "Tokens"
+    ],
+    "learning": "SFT",
+    "scenario": "Asset Operations",
+    "linkType": "Search",
+    "notes": [
+      "Direct paper URL not present in the extracted bibliography; title search provided."
+    ]
+  },
+  {
+    "id": 33,
+    "title": "LatentSkill: From In-Context Textual Skills to In-Weight Latent Skills for LLM Agents",
+    "authors": "Yu, A., C. Zhou, T. Xu, Z. Guo, R. Shan, Z. Fu, J. Wang, W. Liu, Y. Yu, W. Zhang, and et al",
+    "year": 2026,
+    "citation": "Yu, A., C. Zhou, T. Xu, Z. Guo, R. Shan, Z. Fu, J. Wang, W. Liu, Y. Yu, W. Zhang, and et al. 2026. LatentSkill: From In-Context Textual Skills to In-Weight Latent Skills for LLM Agents. arXiv arXiv:cs.",
+    "url": "",
+    "searchUrl": "https://scholar.google.com/scholar?q=LatentSkill%3A%20From%20In-Context%20Textual%20Skills%20to%20In-Weight%20Latent%20Skills%20for%20LLM%20Agents",
+    "stage": "Context",
+    "subcategory": "Tool Description Compression",
+    "approach": "Textual Compression",
+    "method": "LatentSkill",
+    "code": "https://github.com/yuaofan0-oss/LatentSkill",
+    "venue": "Preprint 2026",
+    "resources": [
+      "Tokens"
+    ],
+    "learning": "Pre-training + SFT",
+    "scenario": "Embodied Tasks & Search",
+    "linkType": "Search",
+    "notes": [
+      "Direct paper URL not present in the extracted bibliography; title search provided."
+    ]
+  },
+  {
+    "id": 34,
+    "title": "SKILL0: In-Context Agentic Reinforcement Learning for Skill Internalization",
+    "authors": "Lu, Z., Z. Yao, J. Wu, C. Han, Q. Gu, X. Cai, W. Lu, J. Xiao, Y. Zhuang, and Y. Shen",
+    "year": 2026,
+    "citation": "Lu, Z., Z. Yao, J. Wu, C. Han, Q. Gu, X. Cai, W. Lu, J. Xiao, Y. Zhuang, and Y. Shen. SKILL0: In-Context Agentic Reinforcement Learning for Skill Internalization, 2026. arXiv arXiv:cs.",
+    "url": "",
+    "searchUrl": "https://scholar.google.com/scholar?q=SKILL0%3A%20In-Context%20Agentic%20Reinforcement%20Learning%20for%20Skill%20Internalization",
+    "stage": "Context",
+    "subcategory": "Tool Description Compression",
+    "approach": "Textual Compression",
+    "method": "SKILL0",
+    "code": "https://github.com/ZJU-REAL/SkillZero",
+    "venue": "Preprint 2026",
+    "resources": [
+      "Tokens"
+    ],
+    "learning": "GRPO",
+    "scenario": "Embodied Tasks & Search",
+    "linkType": "Search",
+    "notes": [
+      "Direct paper URL not present in the extracted bibliography; title search provided."
+    ]
+  },
+  {
+    "id": 35,
+    "title": "SkillReducer: Optimizing LLM Agent Skills for Token Efficiency",
+    "authors": "Gao, Y., Z. Li, Y. Yuan, Z. Ji, P. Ma, and S. Wang",
+    "year": 2026,
+    "citation": "Gao, Y., Z. Li, Y. Yuan, Z. Ji, P. Ma, and S. Wang. 2026. SkillReducer: Optimizing LLM Agent Skills for Token Efficiency. arXiv arXiv:cs.",
+    "url": "",
+    "searchUrl": "https://scholar.google.com/scholar?q=SkillReducer%3A%20Optimizing%20LLM%20Agent%20Skills%20for%20Token%20Efficiency",
+    "stage": "Context",
+    "subcategory": "Tool Description Compression",
+    "approach": "Deferred Schema Exposure",
+    "method": "SkillReducer",
+    "code": "",
+    "venue": "Preprint 2026",
+    "resources": [
+      "Tokens",
+      "Cost"
+    ],
+    "learning": "Training-free",
+    "scenario": "Coding",
+    "linkType": "Search",
+    "notes": [
+      "Direct paper URL not present in the extracted bibliography; title search provided."
+    ]
+  },
+  {
+    "id": 36,
+    "title": "Easytool: Enhancing llm-based agents with concise tool instruction",
+    "authors": "Yuan, S., K. Song, J. Chen, X. Tan, Y. Shen, K. Ren, D. Li, and D. Yang",
+    "year": 2025,
+    "citation": "Yuan, S., K. Song, J. Chen, X. Tan, Y. Shen, K. Ren, D. Li, and D. Yang. 2025. Easytool: Enhancing llm-based agents with concise tool instruction. Proceedings of the Proceedings of the 2025 Conference of the Nations of the Americas Chapter of the Association for Computational Linguistics: Human Language Technologies Volume 1: 951–972.",
+    "url": "",
+    "searchUrl": "https://scholar.google.com/scholar?q=Easytool%3A%20Enhancing%20llm-based%20agents%20with%20concise%20tool%20instruction",
+    "stage": "Context",
+    "subcategory": "Tool Description Compression",
+    "approach": "Textual Compression",
+    "method": "EASYTOOL",
+    "code": "https://github.com/microsoft/JARVIS/tree/main/easytool",
+    "venue": "NAACL 2025",
+    "resources": [
+      "Tokens"
+    ],
+    "learning": "Training-free",
+    "scenario": "General",
+    "linkType": "Search",
+    "notes": [
+      "Direct paper URL not present in the extracted bibliography; title search provided."
+    ]
+  },
+  {
+    "id": 37,
+    "title": "Efficient On-Device Agents via Adaptive Context Management",
+    "authors": "Vijayvargiya, S., and R. Lokesh",
+    "year": 2025,
+    "citation": "Vijayvargiya, S., and R. Lokesh. 2025. Efficient On-Device Agents via Adaptive Context Management. arXiv arXiv:2511.03728.",
+    "url": "https://arxiv.org/abs/2511.03728",
+    "searchUrl": "https://scholar.google.com/scholar?q=Efficient%20On-Device%20Agents%20via%20Adaptive%20Context%20Management",
+    "stage": "Context",
+    "subcategory": "Tool Description Compression",
+    "approach": "Deferred Schema Exposure",
+    "method": "Vijayvargiya and Lokesh",
+    "code": "",
+    "venue": "Preprint 2025",
+    "resources": [
+      "Tokens"
+    ],
+    "learning": "SFT",
+    "scenario": "Edge Devices",
+    "linkType": "Paper",
+    "notes": []
+  },
+  {
+    "id": 38,
+    "title": "Concise and precise context compression for tool-using language models",
+    "authors": "Xu, Y., Y. Feng, H. Mu, Y. Hou, Y. Li, X. Wang, W. Zhong, Z. Li, D. Tu, Q. Zhu, and et al",
+    "year": 2024,
+    "citation": "Xu, Y., Y. Feng, H. Mu, Y. Hou, Y. Li, X. Wang, W. Zhong, Z. Li, D. Tu, Q. Zhu, and et al. 2024. Concise and precise context compression for tool-using language models. Proceedings of the Findings of the Association for Computational Linguistics: ACL 2024: 16430–16441.",
+    "url": "",
+    "searchUrl": "https://scholar.google.com/scholar?q=Concise%20and%20precise%20context%20compression%20for%20tool-using%20language%20models",
+    "stage": "Context",
+    "subcategory": "Tool Description Compression",
+    "approach": "Textual Compression",
+    "method": "Xu et al.",
+    "code": "",
+    "venue": "ACL 2024 Findings",
+    "resources": [
+      "Tokens",
+      "Latency"
+    ],
+    "learning": "Continued Pre-training",
+    "scenario": "General",
+    "linkType": "Search",
+    "notes": [
+      "Direct paper URL not present in the extracted bibliography; title search provided."
+    ]
+  },
+  {
+    "id": 39,
+    "title": "Code Execution with MCP: 98.7% Token Reduction Through Efficient Agent Architecture",
+    "authors": "Anthropic",
+    "year": 2024,
+    "citation": "Anthropic. 2024. Code Execution with MCP: 98.7% Token Reduction Through Efficient Agent Architecture. Anthropic Engineering Blog.",
+    "url": "",
+    "searchUrl": "https://scholar.google.com/scholar?q=Code%20Execution%20with%20MCP%3A%2098.7%25%20Token%20Reduction%20Through%20Efficient%20Agent%20Architecture",
+    "stage": "Context",
+    "subcategory": "Tool Description Compression",
+    "approach": "Deferred Schema Exposure",
+    "method": "Code Execution with MCP",
+    "code": "",
+    "venue": "",
+    "resources": [],
+    "learning": "",
+    "scenario": "",
+    "linkType": "Search",
+    "notes": [
+      "Direct paper URL not present in the extracted bibliography; title search provided.",
+      "Year and title reproduced from source bibliography; not independently corrected."
+    ]
+  },
+  {
+    "id": 40,
+    "title": "AGORA: Adapter-Grounded Observation-Action Retention for Inference-Free Prompt Compression in LLM Agents",
+    "authors": "Zhang, H., and Z. Sun",
+    "year": 2026,
+    "citation": "Zhang, H., and Z. Sun. AGORA: Adapter-Grounded Observation-Action Retention for Inference-Free Prompt Compression in LLM Agents, 2026. arXiv arXiv:cs.",
+    "url": "",
+    "searchUrl": "https://scholar.google.com/scholar?q=AGORA%3A%20Adapter-Grounded%20Observation-Action%20Retention%20for%20Inference-Free%20Prompt%20Compression%20in%20LLM%20Agents",
+    "stage": "Context",
+    "subcategory": "History Compression",
+    "approach": "Trajectory Curation",
+    "method": "AGORA",
+    "code": "https://github.com/ranranrannervous/agoracompression",
+    "venue": "Preprint 2026",
+    "resources": [
+      "Tokens"
+    ],
+    "learning": "Auxiliary Training",
+    "scenario": "Embodied Tasks & Web Shopping",
+    "linkType": "Search",
+    "notes": [
+      "Direct paper URL not present in the extracted bibliography; title search provided."
+    ]
+  },
+  {
+    "id": 41,
+    "title": "TokenPilot: Cache-Efficient Context Management for LLM Agents",
+    "authors": "Xu, B., Z. Xue, D. Chen, C. Fu, C. Wu, C. Huang, C. Jiang, J. Fang, X. Deng, Y. Chen, and et al",
+    "year": 2026,
+    "citation": "Xu, B., Z. Xue, D. Chen, C. Fu, C. Wu, C. Huang, C. Jiang, J. Fang, X. Deng, Y. Chen, and et al. 2026. TokenPilot: Cache-Efficient Context Management for LLM Agents. arXiv arXiv:cs.",
+    "url": "",
+    "searchUrl": "https://scholar.google.com/scholar?q=TokenPilot%3A%20Cache-Efficient%20Context%20Management%20for%20LLM%20Agents",
+    "stage": "Context",
+    "subcategory": "History Compression",
+    "approach": "Trajectory Curation",
+    "method": "TokenPilot",
+    "code": "https://github.com/zjunlp/LightMem2",
+    "venue": "Preprint 2026",
+    "resources": [
+      "Tokens",
+      "Cost"
+    ],
+    "learning": "Training-free",
+    "scenario": "General",
+    "linkType": "Search",
+    "notes": [
+      "Direct paper URL not present in the extracted bibliography; title search provided.",
+      "The source-provided repository resolves to a project with different branding; verify before treating it as the official TokenPilot implementation."
+    ]
+  },
+  {
+    "id": 42,
+    "title": "Self-GC: Self-Governing Context for Long-Horizon LLM Agents",
+    "authors": "Hao, X., H. Meng, X. Yin, J. Zhu, and C. Cao",
+    "year": 2026,
+    "citation": "Hao, X., H. Meng, X. Yin, J. Zhu, and C. Cao. Self-GC: Self-Governing Context for Long-Horizon LLM Agents, 2026. arXiv arXiv:cs.",
+    "url": "",
+    "searchUrl": "https://scholar.google.com/scholar?q=Self-GC%3A%20Self-Governing%20Context%20for%20Long-Horizon%20LLM%20Agents",
+    "stage": "Context",
+    "subcategory": "History Compression",
+    "approach": "Trajectory Curation",
+    "method": "Self-GC",
+    "code": "",
+    "venue": "Preprint 2026",
+    "resources": [
+      "Tokens"
+    ],
+    "learning": "Training-free",
+    "scenario": "General",
+    "linkType": "Search",
+    "notes": [
+      "Direct paper URL not present in the extracted bibliography; title search provided."
+    ]
+  },
+  {
+    "id": 43,
+    "title": "ContextBudget: Budget-Aware Context Management for Long-Horizon Search Agents",
+    "authors": "Wu, Y., Y. Zheng, T. Xu, Z. Zhang, Y. Yu, J. Zhu, C. Ma, B. Lin, B. Dong, H. Zhu, and et al",
+    "year": 2026,
+    "citation": "Wu, Y., Y. Zheng, T. Xu, Z. Zhang, Y. Yu, J. Zhu, C. Ma, B. Lin, B. Dong, H. Zhu, and et al. ContextBudget: Budget-Aware Context Management for Long-Horizon Search Agents, 2026. arXiv arXiv:cs.",
+    "url": "",
+    "searchUrl": "https://scholar.google.com/scholar?q=ContextBudget%3A%20Budget-Aware%20Context%20Management%20for%20Long-Horizon%20Search%20Agents",
+    "stage": "Context",
+    "subcategory": "History Compression",
+    "approach": "Trajectory Curation",
+    "method": "ContextBudget",
+    "code": "",
+    "venue": "Preprint 2026",
+    "resources": [
+      "Tokens"
+    ],
+    "learning": "GRPO",
+    "scenario": "Search",
+    "linkType": "Search",
+    "notes": [
+      "Direct paper URL not present in the extracted bibliography; title search provided."
+    ]
+  },
+  {
+    "id": 44,
+    "title": "Learning Agent-Compatible Context Management for Long-Horizon Tasks",
+    "authors": "Yi, L., R. Lei, L. Yao, Y. Xie, Y. Li, W. Zhang, Z. Wei, Y. Li, and J.Y. Nie",
+    "year": 2026,
+    "citation": "Yi, L., R. Lei, L. Yao, Y. Xie, Y. Li, W. Zhang, Z. Wei, Y. Li, and J.Y. Nie. Learning Agent-Compatible Context Management for Long-Horizon Tasks, 2026. arXiv arXiv:cs.",
+    "url": "",
+    "searchUrl": "https://scholar.google.com/scholar?q=Learning%20Agent-Compatible%20Context%20Management%20for%20Long-Horizon%20Tasks",
+    "stage": "Context",
+    "subcategory": "History Compression",
+    "approach": "Trajectory Curation",
+    "method": "AdaCoM",
+    "code": "",
+    "venue": "",
+    "resources": [],
+    "learning": "",
+    "scenario": "",
+    "linkType": "Search",
+    "notes": [
+      "Direct paper URL not present in the extracted bibliography; title search provided."
+    ]
+  },
+  {
+    "id": 45,
+    "title": "Slipstream: Trajectory-Grounded Compaction Validation for Long-Horizon Agents",
+    "authors": "Chen, Z., R. Pan, Y. Dai, and R. Netravali",
+    "year": 2026,
+    "citation": "Chen, Z., R. Pan, Y. Dai, and R. Netravali. Slipstream: Trajectory-Grounded Compaction Validation for Long-Horizon Agents, 2026. arXiv arXiv:cs.",
+    "url": "",
+    "searchUrl": "https://scholar.google.com/scholar?q=Slipstream%3A%20Trajectory-Grounded%20Compaction%20Validation%20for%20Long-Horizon%20Agents",
+    "stage": "Context",
+    "subcategory": "History Compression",
+    "approach": "State Extraction",
+    "method": "Slipstream",
+    "code": "https://github.com/chenzhuofu/slipstream",
+    "venue": "Preprint 2026",
+    "resources": [
+      "Tokens",
+      "Latency"
+    ],
+    "learning": "Training-free",
+    "scenario": "Search & Coding",
+    "linkType": "Search",
+    "notes": [
+      "Direct paper URL not present in the extracted bibliography; title search provided."
+    ]
+  },
+  {
+    "id": 46,
+    "title": "ContextWeaver: Selective and Dependency-Structured Memory Construction for LLM Agents",
+    "authors": "Wu, Y., Y. Zhang, S. Ghosh, S. Basu, A. Deoras, J. Huan, and G. Gupta",
+    "year": 2026,
+    "citation": "Wu, Y., Y. Zhang, S. Ghosh, S. Basu, A. Deoras, J. Huan, and G. Gupta. ContextWeaver: Selective and Dependency-Structured Memory Construction for LLM Agents, 2026. arXiv arXiv:cs.",
+    "url": "",
+    "searchUrl": "https://scholar.google.com/scholar?q=ContextWeaver%3A%20Selective%20and%20Dependency-Structured%20Memory%20Construction%20for%20LLM%20Agents",
+    "stage": "Context",
+    "subcategory": "History Compression",
+    "approach": "State Extraction",
+    "method": "ContextWeaver",
+    "code": "",
+    "venue": "Preprint 2026",
+    "resources": [
+      "Tokens"
+    ],
+    "learning": "Training-free",
+    "scenario": "Coding",
+    "linkType": "Search",
+    "notes": [
+      "Direct paper URL not present in the extracted bibliography; title search provided."
+    ]
+  },
+  {
+    "id": 47,
+    "title": "From History to State: Constant-Context Skill Learning for LLM Agents",
+    "authors": "Xie, H., X. Wang, Y. Wang, P. Zhao, and F. Ju",
+    "year": 2026,
+    "citation": "Xie, H., X. Wang, Y. Wang, P. Zhao, and F. Ju. 2026. From History to State: Constant-Context Skill Learning for LLM Agents. arXiv arXiv:cs.",
+    "url": "",
+    "searchUrl": "https://scholar.google.com/scholar?q=From%20History%20to%20State%3A%20Constant-Context%20Skill%20Learning%20for%20LLM%20Agents",
+    "stage": "Context",
+    "subcategory": "History Compression",
+    "approach": "State Extraction",
+    "method": "Xie et al.",
+    "code": "",
+    "venue": "Preprint 2026",
+    "resources": [
+      "Tokens"
+    ],
+    "learning": "SFT + GRPO",
+    "scenario": "General",
+    "linkType": "Search",
+    "notes": [
+      "Direct paper URL not present in the extracted bibliography; title search provided."
+    ]
+  },
+  {
+    "id": 48,
+    "title": "Memex(RL): Scaling Long-Horizon LLM Agents via Indexed Experience Memory",
+    "authors": "Wang, Z., H. Chen, J. Wang, and W. Wei",
+    "year": 2026,
+    "citation": "Wang, Z., H. Chen, J. Wang, and W. Wei. Memex(RL): Scaling Long-Horizon LLM Agents via Indexed Experience Memory, 2026. arXiv arXiv:cs.",
+    "url": "",
+    "searchUrl": "https://scholar.google.com/scholar?q=Memex%28RL%29%3A%20Scaling%20Long-Horizon%20LLM%20Agents%20via%20Indexed%20Experience%20Memory",
+    "stage": "Context",
+    "subcategory": "History Compression",
+    "approach": "State Extraction",
+    "method": "Memex",
+    "code": "https://github.com/Accenture/MemexRL",
+    "venue": "Preprint 2026",
+    "resources": [
+      "Tokens"
+    ],
+    "learning": "SFT + GRPO",
+    "scenario": "Embodied Tasks",
+    "linkType": "Search",
+    "notes": [
+      "Direct paper URL not present in the extracted bibliography; title search provided."
+    ]
+  },
+  {
+    "id": 49,
+    "title": "PEEK: Context Map as an Orientation Cache for Long-Context LLM Agents",
+    "authors": "Gu, Z., Q. Zhang, O. Khattab, and S. Madden",
+    "year": 2026,
+    "citation": "Gu, Z., Q. Zhang, O. Khattab, and S. Madden. PEEK: Context Map as an Orientation Cache for Long-Context LLM Agents, 2026. arXiv arXiv:cs.",
+    "url": "",
+    "searchUrl": "https://scholar.google.com/scholar?q=PEEK%3A%20Context%20Map%20as%20an%20Orientation%20Cache%20for%20Long-Context%20LLM%20Agents",
+    "stage": "Context",
+    "subcategory": "History Compression",
+    "approach": "State Extraction",
+    "method": "PEEK",
+    "code": "https://github.com/zhuohangu/peek",
+    "venue": "Preprint 2026",
+    "resources": [
+      "Tokens",
+      "Cost"
+    ],
+    "learning": "Training-free",
+    "scenario": "General",
+    "linkType": "Search",
+    "notes": [
+      "Direct paper URL not present in the extracted bibliography; title search provided."
+    ]
+  },
+  {
+    "id": 50,
+    "title": "Memtool: Optimizing short-term memory management for dynamic tool calling in llm agent multi-turn conversations",
+    "authors": "Lumer, E., A. Gulati, V.K. Subbiah, P.H. Basavaraju, and J.A. Burke",
+    "year": 2025,
+    "citation": "Lumer, E., A. Gulati, V.K. Subbiah, P.H. Basavaraju, and J.A. Burke. 2025. Memtool: Optimizing short-term memory management for dynamic tool calling in llm agent multi-turn conversations. arXiv arXiv:2507.21428.",
+    "url": "https://arxiv.org/abs/2507.21428",
+    "searchUrl": "https://scholar.google.com/scholar?q=Memtool%3A%20Optimizing%20short-term%20memory%20management%20for%20dynamic%20tool%20calling%20in%20llm%20agent%20multi-turn%20conversations",
+    "stage": "Context",
+    "subcategory": "History Compression",
+    "approach": "Trajectory Curation",
+    "method": "MemTool",
+    "code": "",
+    "venue": "ECIR 2026",
+    "resources": [
+      "Tokens"
+    ],
+    "learning": "Training-free",
+    "scenario": "General",
+    "linkType": "Paper",
+    "notes": []
+  },
+  {
+    "id": 51,
+    "title": "Memory as action: Autonomous context curation for long-horizon agentic tasks",
+    "authors": "Zhang, Y., J. Shu, Y. Ma, X. Lin, S. Wu, and J. Sang",
+    "year": 2025,
+    "citation": "Zhang, Y., J. Shu, Y. Ma, X. Lin, S. Wu, and J. Sang. 2025. Memory as action: Autonomous context curation for long-horizon agentic tasks. arXiv arXiv:2510.12635.",
+    "url": "https://arxiv.org/abs/2510.12635",
+    "searchUrl": "https://scholar.google.com/scholar?q=Memory%20as%20action%3A%20Autonomous%20context%20curation%20for%20long-horizon%20agentic%20tasks",
+    "stage": "Context",
+    "subcategory": "History Compression",
+    "approach": "Trajectory Curation",
+    "method": "MemAct",
+    "code": "https://github.com/ADaM-BJTU/MemAct",
+    "venue": "Preprint 2025",
+    "resources": [
+      "Tokens"
+    ],
+    "learning": "SFT + DCPO",
+    "scenario": "Web QA",
+    "linkType": "Paper",
+    "notes": []
+  },
+  {
+    "id": 52,
+    "title": "AgentFold: Long-Horizon Web Agents with Proactive Context Management",
+    "authors": "Ye, R., Z. Zhang, K. Li, H. Yin, Z. Tao, Y. Zhao, L. Su, L. Zhang, Z. Qiao, X. Wang, and et al",
+    "year": 2025,
+    "citation": "Ye, R., Z. Zhang, K. Li, H. Yin, Z. Tao, Y. Zhao, L. Su, L. Zhang, Z. Qiao, X. Wang, and et al. 2025. AgentFold: Long-Horizon Web Agents with Proactive Context Management. arXiv arXiv:2510.24699.",
+    "url": "https://arxiv.org/abs/2510.24699",
+    "searchUrl": "https://scholar.google.com/scholar?q=AgentFold%3A%20Long-Horizon%20Web%20Agents%20with%20Proactive%20Context%20Management",
+    "stage": "Context",
+    "subcategory": "History Compression",
+    "approach": "State Extraction",
+    "method": "AgentFold",
+    "code": "https://github.com/Alibaba-NLP/DeepResearch",
+    "venue": "ICLR 2026",
+    "resources": [
+      "Tokens"
+    ],
+    "learning": "SFT",
+    "scenario": "Web QA",
+    "linkType": "Paper",
+    "notes": []
+  },
+  {
+    "id": 53,
+    "title": "Acon: Optimizing context compression for long-horizon llm agents",
+    "authors": "Kang, M., W.N. Chen, D. Han, H.A. Inan, L. Wutschitz, Y. Chen, R. Sim, and S. Rajmohan",
+    "year": 2025,
+    "citation": "Kang, M., W.N. Chen, D. Han, H.A. Inan, L. Wutschitz, Y. Chen, R. Sim, and S. Rajmohan. 2025. Acon: Optimizing context compression for long-horizon llm agents. arXiv arXiv:2510.00615.",
+    "url": "https://arxiv.org/abs/2510.00615",
+    "searchUrl": "https://scholar.google.com/scholar?q=Acon%3A%20Optimizing%20context%20compression%20for%20long-horizon%20llm%20agents",
+    "stage": "Context",
+    "subcategory": "History Compression",
+    "approach": "State Extraction",
+    "method": "ACON",
+    "code": "https://github.com/microsoft/acon",
+    "venue": "LLA @ ICLR 2026",
+    "resources": [
+      "Tokens"
+    ],
+    "learning": "Training-free Distillation",
+    "scenario": "User Assistance",
+    "linkType": "Paper",
+    "notes": []
+  },
+  {
+    "id": 54,
+    "title": "Smurfs: Leveraging multiple proficiency agents with context-efficiency for tool planning",
+    "authors": "Chen, J., J. Liang, and B. Wang",
+    "year": 2024,
+    "citation": "Chen, J., J. Liang, and B. Wang. 2024. Smurfs: Leveraging multiple proficiency agents with context-efficiency for tool planning. arXiv, arXiv–2405.",
+    "url": "",
+    "searchUrl": "https://scholar.google.com/scholar?q=Smurfs%3A%20Leveraging%20multiple%20proficiency%20agents%20with%20context-efficiency%20for%20tool%20planning",
+    "stage": "Context",
+    "subcategory": "History Compression",
+    "approach": "Trajectory Curation",
+    "method": "Smurfs",
+    "code": "https://github.com/FreedomIntelligence/Smurfs",
+    "venue": "NAACL 2025",
+    "resources": [
+      "Tokens"
+    ],
+    "learning": "Training-free",
+    "scenario": "General",
+    "linkType": "Search",
+    "notes": [
+      "Direct paper URL not present in the extracted bibliography; title search provided."
+    ]
+  },
+  {
+    "id": 55,
+    "title": "LLM Agents Already Know When to Call Tools – Even Without Reasoning",
+    "authors": "Sun, C.E., L. Liu, G. Yan, Z. Wang, and T.W. Weng",
+    "year": 2026,
+    "citation": "Sun, C.E., L. Liu, G. Yan, Z. Wang, and T.W. Weng. LLM Agents Already Know When to Call Tools – Even Without Reasoning, 2026. arXiv arXiv:cs.",
+    "url": "",
+    "searchUrl": "https://scholar.google.com/scholar?q=LLM%20Agents%20Already%20Know%20When%20to%20Call%20Tools%20%E2%80%93%20Even%20Without%20Reasoning",
+    "stage": "Calling",
+    "subcategory": "Eligibility-Aware Calling",
+    "approach": "Necessity Assessment",
+    "method": "Probe&Prefill",
+    "code": "https://github.com/Trustworthy-ML-Lab/when2tool",
+    "venue": "Preprint 2026",
+    "resources": [
+      "Calls"
+    ],
+    "learning": "Auxiliary Training",
+    "scenario": "General",
+    "linkType": "Search",
+    "notes": [
+      "Direct paper URL not present in the extracted bibliography; title search provided."
+    ]
+  },
+  {
+    "id": 56,
+    "title": "SMART: Self-aware agent for tool overuse mitigation",
+    "authors": "Qian, C., E.C. Acikgoz, H. Wang, X. Chen, A. Sil, D. Hakkani-Tur, G. Tur, and H. Ji",
+    "year": 2025,
+    "citation": "Qian, C., E.C. Acikgoz, H. Wang, X. Chen, A. Sil, D. Hakkani-Tur, G. Tur, and H. Ji. 2025. SMART: Self-aware agent for tool overuse mitigation. Proceedings of the Findings of the Association for Computational Linguistics: ACL 2025: 4604–4621.",
+    "url": "",
+    "searchUrl": "https://scholar.google.com/scholar?q=SMART%3A%20Self-aware%20agent%20for%20tool%20overuse%20mitigation",
+    "stage": "Calling",
+    "subcategory": "Eligibility-Aware Calling",
+    "approach": "Necessity Assessment",
+    "method": "SMART",
+    "code": "https://github.com/qiancheng0/Open-SMARTAgent",
+    "venue": "ACL 2025 Findings",
+    "resources": [
+      "Tokens",
+      "Latency",
+      "Calls",
+      "Cost"
+    ],
+    "learning": "SFT",
+    "scenario": "General",
+    "linkType": "Search",
+    "notes": [
+      "Direct paper URL not present in the extracted bibliography; title search provided."
+    ]
+  },
+  {
+    "id": 57,
+    "title": "Adaptive tool use in large language models with meta-cognition trigger",
+    "authors": "Li, W., D. Li, K. Dong, C. Zhang, H. Zhang, W. Liu, Y. Wang, R. Tang, and Y. Liu",
+    "year": 2025,
+    "citation": "Li, W., D. Li, K. Dong, C. Zhang, H. Zhang, W. Liu, Y. Wang, R. Tang, and Y. Liu. 2025. Adaptive tool use in large language models with meta-cognition trigger. Proceedings of the Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics Volume 1: 13346–13370.",
+    "url": "",
+    "searchUrl": "https://scholar.google.com/scholar?q=Adaptive%20tool%20use%20in%20large%20language%20models%20with%20meta-cognition%20trigger",
+    "stage": "Calling",
+    "subcategory": "Eligibility-Aware Calling",
+    "approach": "Necessity Assessment",
+    "method": "MeCo",
+    "code": "",
+    "venue": "ACL 2025",
+    "resources": [
+      "Latency",
+      "Calls",
+      "Cost"
+    ],
+    "learning": "SFT",
+    "scenario": "General",
+    "linkType": "Search",
+    "notes": [
+      "Direct paper URL not present in the extracted bibliography; title search provided."
+    ]
+  },
+  {
+    "id": 58,
+    "title": "When2Call: When (not) to call tools",
+    "authors": "Ross, H., A.S. Mahabaleshwarkar, and Y. Suhara",
+    "year": 2025,
+    "citation": "Ross, H., A.S. Mahabaleshwarkar, and Y. Suhara. 2025. When2Call: When (not) to call tools. Proceedings of the Proceedings of the 2025 Conference of the Nations of the Americas Chapter of the Association for Computational Linguistics: Human Language Technologies Volume 1: 3391–3409.",
+    "url": "",
+    "searchUrl": "https://scholar.google.com/scholar?q=When2Call%3A%20When%20%28not%29%20to%20call%20tools",
+    "stage": "Calling",
+    "subcategory": "Eligibility-Aware Calling",
+    "approach": "Availability Assessment",
+    "method": "When2Call",
+    "code": "https://github.com/NVIDIA/When2Call",
+    "venue": "NAACL 2025",
+    "resources": [
+      "Calls"
+    ],
+    "learning": "PPO",
+    "scenario": "General",
+    "linkType": "Search",
+    "notes": [
+      "Direct paper URL not present in the extracted bibliography; title search provided."
+    ]
+  },
+  {
+    "id": 59,
+    "title": "Knowledge Base-Aware Orchestration: A Dynamic, Privacy-Preserving Method for Multi-Agent Systems",
+    "authors": "Trombino, D., V. Pecorella, A. De Giulii, and D. Tresoldi",
+    "year": 2025,
+    "citation": "Trombino, D., V. Pecorella, A. De Giulii, and D. Tresoldi. 2025. Knowledge Base-Aware Orchestration: A Dynamic, Privacy-Preserving Method for Multi-Agent Systems. arXiv arXiv:2509.19599.",
+    "url": "https://arxiv.org/abs/2509.19599",
+    "searchUrl": "https://scholar.google.com/scholar?q=Knowledge%20Base-Aware%20Orchestration%3A%20A%20Dynamic%2C%20Privacy-Preserving%20Method%20for%20Multi-Agent%20Systems",
+    "stage": "Calling",
+    "subcategory": "Eligibility-Aware Calling",
+    "approach": "Availability Assessment",
+    "method": "KBA",
+    "code": "",
+    "venue": "Preprint 2025",
+    "resources": [
+      "Cost"
+    ],
+    "learning": "Training-free",
+    "scenario": "Multi-Agent System",
+    "linkType": "Paper",
+    "notes": []
+  },
+  {
+    "id": 60,
+    "title": "Smartcal: An approach to self-aware tool-use evaluation and calibration",
+    "authors": "Shen, Y., X. Zhu, and L. Chen",
+    "year": 2024,
+    "citation": "Shen, Y., X. Zhu, and L. Chen. 2024. Smartcal: An approach to self-aware tool-use evaluation and calibration. Proceedings of the Proceedings of the 2024 Conference on Empirical Methods in Natural Language Processing: Industry Track; pp. 774–789.",
+    "url": "",
+    "searchUrl": "https://scholar.google.com/scholar?q=Smartcal%3A%20An%20approach%20to%20self-aware%20tool-use%20evaluation%20and%20calibration",
+    "stage": "Calling",
+    "subcategory": "Eligibility-Aware Calling",
+    "approach": "Necessity Assessment",
+    "method": "SMARTCAL",
+    "code": "https://github.com/Henrysyh2000/SMARTCAL",
+    "venue": "EMNLP 2024",
+    "resources": [
+      "Latency",
+      "Calls",
+      "Cost"
+    ],
+    "learning": "Training-free",
+    "scenario": "General",
+    "linkType": "Search",
+    "notes": [
+      "Direct paper URL not present in the extracted bibliography; title search provided."
+    ]
+  },
+  {
+    "id": 61,
+    "title": "Look before you leap: towards decision-aware and generalizable tool-usage for large language models",
+    "authors": "Gui, A., J. Li, Y. Dai, N. Du, and H. Xiao",
+    "year": 2024,
+    "citation": "Gui, A., J. Li, Y. Dai, N. Du, and H. Xiao. 2024. Look before you leap: towards decision-aware and generalizable tool-usage for large language models. arXiv arXiv:2402.16696.",
+    "url": "https://arxiv.org/abs/2402.16696",
+    "searchUrl": "https://scholar.google.com/scholar?q=Look%20before%20you%20leap%3A%20towards%20decision-aware%20and%20generalizable%20tool-usage%20for%20large%20language%20models",
+    "stage": "Calling",
+    "subcategory": "Eligibility-Aware Calling",
+    "approach": "Availability Assessment",
+    "method": "DEER",
+    "code": "https://github.com/Ericmututu/ToolDEER",
+    "venue": "Preprint 2024",
+    "resources": [
+      "Calls"
+    ],
+    "learning": "SFT",
+    "scenario": "General",
+    "linkType": "Paper",
+    "notes": []
+  },
+  {
+    "id": 62,
+    "title": "AdaTIR: Adaptive Tool-Integrated Reasoning via Difficulty-Aware Policy Optimization",
+    "authors": "Fang, Z., and R. Sun",
+    "year": 2026,
+    "citation": "Fang, Z., and R. Sun. 2026. AdaTIR: Adaptive Tool-Integrated Reasoning via Difficulty-Aware Policy Optimization. arXiv arXiv:2601.14696.",
+    "url": "https://arxiv.org/abs/2601.14696",
+    "searchUrl": "https://scholar.google.com/scholar?q=AdaTIR%3A%20Adaptive%20Tool-Integrated%20Reasoning%20via%20Difficulty-Aware%20Policy%20Optimization",
+    "stage": "Calling",
+    "subcategory": "Cost-Aware Calling",
+    "approach": "Reward-Driven Optimization",
+    "method": "AdaTIR",
+    "code": "",
+    "venue": "Preprint 2026",
+    "resources": [
+      "Calls",
+      "Cost"
+    ],
+    "learning": "SFT + GRPO",
+    "scenario": "Math & Code",
+    "linkType": "Paper",
+    "notes": []
+  },
+  {
+    "id": 63,
+    "title": "Latency-Quality Routing for Functionally Equivalent Tools in LLM Agents",
+    "authors": "Chu, K., D. Xiang, and W. Zhang",
+    "year": 2026,
+    "citation": "Chu, K., D. Xiang, and W. Zhang. Latency-Quality Routing for Functionally Equivalent Tools in LLM Agents, 2026. arXiv arXiv:cs.",
+    "url": "",
+    "searchUrl": "https://scholar.google.com/scholar?q=Latency-Quality%20Routing%20for%20Functionally%20Equivalent%20Tools%20in%20LLM%20Agents",
+    "stage": "Calling",
+    "subcategory": "Cost-Aware Calling",
+    "approach": "Reward-Driven Optimization",
+    "method": "LQM-ContextRoute",
+    "code": "",
+    "venue": "Preprint 2026",
+    "resources": [
+      "Latency"
+    ],
+    "learning": "Contextual Bandit",
+    "scenario": "General",
+    "linkType": "Search",
+    "notes": [
+      "Direct paper URL not present in the extracted bibliography; title search provided."
+    ]
+  },
+  {
+    "id": 64,
+    "title": "Budget-Constrained Agentic Large Language Models: Intention-Based Planning for Costly Tool Use",
+    "authors": "Liu, H., C. Tian, N. An, Z. Wang, P. Lu, C. Yu, and Q. Qi",
+    "year": 2026,
+    "citation": "Liu, H., C. Tian, N. An, Z. Wang, P. Lu, C. Yu, and Q. Qi. 2026. Budget-Constrained Agentic Large Language Models: Intention-Based Planning for Costly Tool Use. arXiv arXiv:2602.11541.",
+    "url": "https://arxiv.org/abs/2602.11541",
+    "searchUrl": "https://scholar.google.com/scholar?q=Budget-Constrained%20Agentic%20Large%20Language%20Models%3A%20Intention-Based%20Planning%20for%20Costly%20Tool%20Use",
+    "stage": "Calling",
+    "subcategory": "Cost-Aware Calling",
+    "approach": "Budget-Driven Optimization",
+    "method": "INTENT",
+    "code": "",
+    "venue": "Preprint 2026",
+    "resources": [
+      "Latency",
+      "Calls",
+      "Cost"
+    ],
+    "learning": "SFT",
+    "scenario": "General",
+    "linkType": "Paper",
+    "notes": []
+  },
+  {
+    "id": 65,
+    "title": "A Stackelberg Framework for Resource-Aware LLM Agents: Learning, Repair, and Conditional Guarantees",
+    "authors": "Wang, B",
+    "year": 2026,
+    "citation": "Wang, B. 2026. A Stackelberg Framework for Resource-Aware LLM Agents: Learning, Repair, and Conditional Guarantees. arXiv arXiv:cs.",
+    "url": "",
+    "searchUrl": "https://scholar.google.com/scholar?q=A%20Stackelberg%20Framework%20for%20Resource-Aware%20LLM%20Agents%3A%20Learning%2C%20Repair%2C%20and%20Conditional%20Guarantees",
+    "stage": "Calling",
+    "subcategory": "Cost-Aware Calling",
+    "approach": "Budget-Driven Optimization",
+    "method": "Wang",
+    "code": "",
+    "venue": "Preprint 2026",
+    "resources": [
+      "Tokens",
+      "Calls"
+    ],
+    "learning": "GAIL + PPO",
+    "scenario": "General",
+    "linkType": "Search",
+    "notes": [
+      "Direct paper URL not present in the extracted bibliography; title search provided."
+    ]
+  },
+  {
+    "id": 66,
+    "title": "Autotir: Autonomous tools integrated reasoning via reinforcement learning",
+    "authors": "Wei, Y., X. Yu, Y. Weng, T. Pan, A. Li, and L. Du",
+    "year": 2025,
+    "citation": "Wei, Y., X. Yu, Y. Weng, T. Pan, A. Li, and L. Du. 2025. Autotir: Autonomous tools integrated reasoning via reinforcement learning. arXiv arXiv:2507.21836.",
+    "url": "https://arxiv.org/abs/2507.21836",
+    "searchUrl": "https://scholar.google.com/scholar?q=Autotir%3A%20Autonomous%20tools%20integrated%20reasoning%20via%20reinforcement%20learning",
+    "stage": "Calling",
+    "subcategory": "Cost-Aware Calling",
+    "approach": "Reward-Driven Optimization",
+    "method": "AutoTIR",
+    "code": "https://github.com/weiyifan1023/AutoTIR",
+    "venue": "Preprint 2025",
+    "resources": [
+      "Calls"
+    ],
+    "learning": "GRPO",
+    "scenario": "General",
+    "linkType": "Paper",
+    "notes": [
+      "Source-provided repository URL retained; fetch timed out during preparation."
+    ]
+  },
+  {
+    "id": 67,
+    "title": "Acting Less is Reasoning More! Teaching Language Model to Act Efficiently",
+    "authors": "WANG, H., C. Qian, W. Zhong, X. Chen, J. Qiu, S. Huang, B. Jin, M. Wang, K.F. Wong, and H. Ji",
+    "year": 2025,
+    "citation": "WANG, H., C. Qian, W. Zhong, X. Chen, J. Qiu, S. Huang, B. Jin, M. Wang, K.F. Wong, and H. Ji. 2025. Acting Less is Reasoning More! Teaching Language Model to Act Efficiently. Proceedings of the NeurIPS 2025 Workshop on Bridging Language, Agent, and World Models for Reasoning and Planning.",
+    "url": "",
+    "searchUrl": "https://scholar.google.com/scholar?q=Acting%20Less%20is%20Reasoning%20More%21%20Teaching%20Language%20Model%20to%20Act%20Efficiently",
+    "stage": "Calling",
+    "subcategory": "Cost-Aware Calling",
+    "approach": "Reward-Driven Optimization",
+    "method": "OTC-PO",
+    "code": "",
+    "venue": "LAW @ NeurIPS 2025",
+    "resources": [
+      "Latency",
+      "Calls",
+      "Cost"
+    ],
+    "learning": "PPO + GRPO",
+    "scenario": "Search",
+    "linkType": "Search",
+    "notes": [
+      "Direct paper URL not present in the extracted bibliography; title search provided."
+    ]
+  },
+  {
+    "id": 68,
+    "title": "Budget-aware tool-use enables effective agent scaling",
+    "authors": "Liu, T., Z. Wang, J. Miao, I. Hsu, J. Yan, J. Chen, R. Han, F. Xu, Y. Chen, K. Jiang, and et al",
+    "year": 2025,
+    "citation": "Liu, T., Z. Wang, J. Miao, I. Hsu, J. Yan, J. Chen, R. Han, F. Xu, Y. Chen, K. Jiang, and et al. 2025. Budget-aware tool-use enables effective agent scaling. arXiv arXiv:2511.17006.",
+    "url": "https://arxiv.org/abs/2511.17006",
+    "searchUrl": "https://scholar.google.com/scholar?q=Budget-aware%20tool-use%20enables%20effective%20agent%20scaling",
+    "stage": "Calling",
+    "subcategory": "Cost-Aware Calling",
+    "approach": "Budget-Driven Optimization",
+    "method": "BATS",
+    "code": "",
+    "venue": "Preprint 2025",
+    "resources": [
+      "Tokens",
+      "Calls",
+      "Cost"
+    ],
+    "learning": "Training-free",
+    "scenario": "Search",
+    "linkType": "Paper",
+    "notes": []
+  },
+  {
+    "id": 69,
+    "title": "MASH: Modeling Abstention via Selective Help-Seeking",
+    "authors": "Gul, M.O., C. Cardie, and T. Goyal",
+    "year": 2026,
+    "citation": "Gul, M.O., C. Cardie, and T. Goyal. 2026. MASH: Modeling Abstention via Selective Help-Seeking. arXiv arXiv:cs.",
+    "url": "",
+    "searchUrl": "https://scholar.google.com/scholar?q=MASH%3A%20Modeling%20Abstention%20via%20Selective%20Help-Seeking",
+    "stage": "Calling",
+    "subcategory": "Cost-Aware Calling",
+    "approach": "Budget-Driven Optimization",
+    "method": "MASH",
+    "code": "https://github.com/momergul/mash",
+    "venue": "Preprint 2025",
+    "resources": [
+      "Calls",
+      "Cost"
+    ],
+    "learning": "SFT + GRPO",
+    "scenario": "QA",
+    "linkType": "Search",
+    "notes": [
+      "Direct paper URL not present in the extracted bibliography; title search provided.",
+      "Table A1 says Preprint 2025; bibliography says 2026. Year follows bibliography."
+    ]
+  },
+  {
+    "id": 70,
+    "title": "Budget-constrained tool learning with planning",
+    "authors": "Zheng, Y., P. Li, M. Yan, J. Zhang, F. Huang, and Y. Liu",
+    "year": 2024,
+    "citation": "Zheng, Y., P. Li, M. Yan, J. Zhang, F. Huang, and Y. Liu. 2024. Budget-constrained tool learning with planning. Proceedings of the Findings of the Association for Computational Linguistics: ACL 2024: 9039–9052.",
+    "url": "",
+    "searchUrl": "https://scholar.google.com/scholar?q=Budget-constrained%20tool%20learning%20with%20planning",
+    "stage": "Calling",
+    "subcategory": "Cost-Aware Calling",
+    "approach": "Budget-Driven Optimization",
+    "method": "BTP",
+    "code": "https://github.com/THUNLP-MT/BTP",
+    "venue": "ACL 2024 Findings",
+    "resources": [
+      "Latency",
+      "Calls",
+      "Cost"
+    ],
+    "learning": "Auxiliary Training",
+    "scenario": "General",
+    "linkType": "Search",
+    "notes": [
+      "Direct paper URL not present in the extracted bibliography; title search provided."
+    ]
+  },
+  {
+    "id": 71,
+    "title": "T2Agent: A Tool-augmented Multimodal Misinformation Detection Agent with Monte Carlo Tree Search",
+    "authors": "Cui, X., Y. Zou, Z. Li, P. Li, X. Xu, X. Liu, and H. Huang",
+    "year": 2026,
+    "citation": "Cui, X., Y. Zou, Z. Li, P. Li, X. Xu, X. Liu, and H. Huang. 2026. T2Agent: A Tool-augmented Multimodal Misinformation Detection Agent with Monte Carlo Tree Search. Proceedings of the Proceedings of the AAAI Conference on Artificial Intelligence Vol. 40: 175–183.",
+    "url": "",
+    "searchUrl": "https://scholar.google.com/scholar?q=T2Agent%3A%20A%20Tool-augmented%20Multimodal%20Misinformation%20Detection%20Agent%20with%20Monte%20Carlo%20Tree%20Search",
+    "stage": "Reasoning",
+    "subcategory": "Trajectory Optimization",
+    "approach": "Structured Exploration",
+    "method": "T²Agent",
+    "code": "https://github.com/cuixing100876/T2Agent",
+    "venue": "AAAI 2026",
+    "resources": [
+      "Cost"
+    ],
+    "learning": "Training-free",
+    "scenario": "Misinformation",
+    "linkType": "Search",
+    "notes": [
+      "Direct paper URL not present in the extracted bibliography; title search provided."
+    ]
+  },
+  {
+    "id": 72,
+    "title": "ToolTree: Efficient LLM Agent Tool Planning via Dual-Feedback Monte Carlo Tree Search and Bidirectional Pruning",
+    "authors": "Yang, S., S.C. Han, Y. Ding, S. Wang, and E. Hoy",
+    "year": 2026,
+    "citation": "Yang, S., S.C. Han, Y. Ding, S. Wang, and E. Hoy. 2026. ToolTree: Efficient LLM Agent Tool Planning via Dual-Feedback Monte Carlo Tree Search and Bidirectional Pruning. arXiv arXiv:2603.12740.",
+    "url": "https://arxiv.org/abs/2603.12740",
+    "searchUrl": "https://scholar.google.com/scholar?q=ToolTree%3A%20Efficient%20LLM%20Agent%20Tool%20Planning%20via%20Dual-Feedback%20Monte%20Carlo%20Tree%20Search%20and%20Bidirectional%20Pruning",
+    "stage": "Reasoning",
+    "subcategory": "Trajectory Optimization",
+    "approach": "Structured Exploration",
+    "method": "ToolTree",
+    "code": "https://github.com/SYang2000/ICLR_2026_ToolTree/tree/main",
+    "venue": "ICLR 2026",
+    "resources": [
+      "Tokens",
+      "Latency"
+    ],
+    "learning": "Training-free",
+    "scenario": "General",
+    "linkType": "Paper",
+    "notes": []
+  },
+  {
+    "id": 73,
+    "title": "Spend Less, Reason Better: Budget-Aware Value Tree Search for LLM Agents",
+    "authors": "Li, Y., W. Deng, J. Li, and X. Li",
+    "year": 2026,
+    "citation": "Li, Y., W. Deng, J. Li, and X. Li. Spend Less, Reason Better: Budget-Aware Value Tree Search for LLM Agents, 2026. arXiv arXiv:cs.",
+    "url": "",
+    "searchUrl": "https://scholar.google.com/scholar?q=Spend%20Less%2C%20Reason%20Better%3A%20Budget-Aware%20Value%20Tree%20Search%20for%20LLM%20Agents",
+    "stage": "Reasoning",
+    "subcategory": "Trajectory Optimization",
+    "approach": "Structured Exploration",
+    "method": "BAVT",
+    "code": "",
+    "venue": "Preprint 2026",
+    "resources": [
+      "Tokens",
+      "Calls",
+      "Cost"
+    ],
+    "learning": "Training-free",
+    "scenario": "Multi-hop QA",
+    "linkType": "Search",
+    "notes": [
+      "Direct paper URL not present in the extracted bibliography; title search provided."
+    ]
+  },
+  {
+    "id": 74,
+    "title": "Long-Horizon Plan Execution in Large Tool Spaces through Entropy-Guided Branching",
+    "authors": "Wei, R., G. Shi, M. Cheng, N. Zhang, P. Li, S. Ghosh, V. Gorde, and L. Akoglu",
+    "year": 2026,
+    "citation": "Wei, R., G. Shi, M. Cheng, N. Zhang, P. Li, S. Ghosh, V. Gorde, and L. Akoglu. Long-Horizon Plan Execution in Large Tool Spaces through Entropy-Guided Branching, 2026. arXiv arXiv:cs.",
+    "url": "",
+    "searchUrl": "https://scholar.google.com/scholar?q=Long-Horizon%20Plan%20Execution%20in%20Large%20Tool%20Spaces%20through%20Entropy-Guided%20Branching",
+    "stage": "Reasoning",
+    "subcategory": "Trajectory Optimization",
+    "approach": "Structured Exploration",
+    "method": "EGB",
+    "code": "",
+    "venue": "Preprint 2026",
+    "resources": [
+      "Tokens",
+      "Calls"
+    ],
+    "learning": "Training-free",
+    "scenario": "E-commerce",
+    "linkType": "Search",
+    "notes": [
+      "Direct paper URL not present in the extracted bibliography; title search provided."
+    ]
+  },
+  {
+    "id": 75,
+    "title": "Agent JIT Compilation for Latency-Optimizing Web Agent Planning and Scheduling",
+    "authors": "Winston, C., R.Y. Wang, A. Mirhoseini, and C. Kozyrakis",
+    "year": 2026,
+    "citation": "Winston, C., R.Y. Wang, A. Mirhoseini, and C. Kozyrakis. Agent JIT Compilation for Latency-Optimizing Web Agent Planning and Scheduling, 2026. arXiv arXiv:cs.",
+    "url": "",
+    "searchUrl": "https://scholar.google.com/scholar?q=Agent%20JIT%20Compilation%20for%20Latency-Optimizing%20Web%20Agent%20Planning%20and%20Scheduling",
+    "stage": "Reasoning",
+    "subcategory": "Trajectory Optimization",
+    "approach": "Structured Exploration",
+    "method": "Agent JIT Compilation",
+    "code": "",
+    "venue": "ICML 2026",
+    "resources": [
+      "Latency",
+      "Calls"
+    ],
+    "learning": "Training-free",
+    "scenario": "Web Automation",
+    "linkType": "Search",
+    "notes": [
+      "Direct paper URL not present in the extracted bibliography; title search provided."
+    ]
+  },
+  {
+    "id": 76,
+    "title": "AgentStop: Terminating Local AI Agents Early to Save Energy in Consumer Devices",
+    "authors": "Pham, D., K. Katevas, A.S. Shamsabadi, and H. Haddadi",
+    "year": 2026,
+    "citation": "Pham, D., K. Katevas, A.S. Shamsabadi, and H. Haddadi. AgentStop: Terminating Local AI Agents Early to Save Energy in Consumer Devices, 2026. arXiv arXiv:cs.",
+    "url": "",
+    "searchUrl": "https://scholar.google.com/scholar?q=AgentStop%3A%20Terminating%20Local%20AI%20Agents%20Early%20to%20Save%20Energy%20in%20Consumer%20Devices",
+    "stage": "Reasoning",
+    "subcategory": "Trajectory Optimization",
+    "approach": "Structured Exploration",
+    "method": "AgentStop",
+    "code": "https://github.com/brave-experiments/AgentStop",
+    "venue": "CAIS 2026",
+    "resources": [
+      "Tokens",
+      "Latency"
+    ],
+    "learning": "Auxiliary Training",
+    "scenario": "Edge Devices",
+    "linkType": "Search",
+    "notes": [
+      "Direct paper URL not present in the extracted bibliography; title search provided."
+    ]
+  },
+  {
+    "id": 77,
+    "title": "Doomed from the Start: Early Abort of LLM Agent Episodes via a Recall-Controlled Probe Cascade",
+    "authors": "Ruan, K., Z. Huang, Z. Zhou, Q. Wei, J. Lin, X. Wang, and H. Sun",
+    "year": 2026,
+    "citation": "Ruan, K., Z. Huang, Z. Zhou, Q. Wei, J. Lin, X. Wang, and H. Sun. Doomed from the Start: Early Abort of LLM Agent Episodes via a Recall-Controlled Probe Cascade, 2026. arXiv arXiv:cs.",
+    "url": "",
+    "searchUrl": "https://scholar.google.com/scholar?q=Doomed%20from%20the%20Start%3A%20Early%20Abort%20of%20LLM%20Agent%20Episodes%20via%20a%20Recall-Controlled%20Probe%20Cascade",
+    "stage": "Reasoning",
+    "subcategory": "Trajectory Optimization",
+    "approach": "Structured Exploration",
+    "method": "Ruan et al.",
+    "code": "",
+    "venue": "Preprint 2026",
+    "resources": [
+      "Tokens"
+    ],
+    "learning": "Auxiliary Training",
+    "scenario": "Embodied Tasks & Web Shopping",
+    "linkType": "Search",
+    "notes": [
+      "Direct paper URL not present in the extracted bibliography; title search provided."
+    ]
+  },
+  {
+    "id": 78,
+    "title": "ET-Agent: Incentivizing Effective Tool-Integrated Reasoning Agent via Behavior Calibration",
+    "authors": "Chen, Y., G. Dong, and Z. Dou",
+    "year": 2026,
+    "citation": "Chen, Y., G. Dong, and Z. Dou. 2026. ET-Agent: Incentivizing Effective Tool-Integrated Reasoning Agent via Behavior Calibration. arXiv arXiv:2601.06860.",
+    "url": "https://arxiv.org/abs/2601.06860",
+    "searchUrl": "https://scholar.google.com/scholar?q=ET-Agent%3A%20Incentivizing%20Effective%20Tool-Integrated%20Reasoning%20Agent%20via%20Behavior%20Calibration",
+    "stage": "Reasoning",
+    "subcategory": "Trajectory Optimization",
+    "approach": "Policy Refinement",
+    "method": "ET-Agent",
+    "code": "https://github.com/RUC-NLPIR/ET-Agent",
+    "venue": "ACL 2026",
+    "resources": [
+      "Calls"
+    ],
+    "learning": "RFT + ARPO",
+    "scenario": "General",
+    "linkType": "Paper",
+    "notes": []
+  },
+  {
+    "id": 79,
+    "title": "Ares: Adaptive Reasoning Effort Selection for Efficient LLM Agents",
+    "authors": "Yang, J., B. Hou, W. Wei, Y. Bao, and S. Chang",
+    "year": 2026,
+    "citation": "Yang, J., B. Hou, W. Wei, Y. Bao, and S. Chang. 2026. Ares: Adaptive Reasoning Effort Selection for Efficient LLM Agents. arXiv arXiv:cs.",
+    "url": "",
+    "searchUrl": "https://scholar.google.com/scholar?q=Ares%3A%20Adaptive%20Reasoning%20Effort%20Selection%20for%20Efficient%20LLM%20Agents",
+    "stage": "Reasoning",
+    "subcategory": "Trajectory Optimization",
+    "approach": "Policy Refinement",
+    "method": "Ares",
+    "code": "https://github.com/UCSB-NLP-Chang/Ares",
+    "venue": "Preprint 2026",
+    "resources": [
+      "Tokens"
+    ],
+    "learning": "SFT + GRPO",
+    "scenario": "General",
+    "linkType": "Search",
+    "notes": [
+      "Direct paper URL not present in the extracted bibliography; title search provided."
+    ]
+  },
+  {
+    "id": 80,
+    "title": "Advancing tool-augmented large language models via meta-verification and reflection learning",
+    "authors": "Ma, Z., J. Liu, X. Luo, Z. Huang, Q. Zhu, and W. Che",
+    "year": 2025,
+    "citation": "Ma, Z., J. Liu, X. Luo, Z. Huang, Q. Zhu, and W. Che. 2025. Advancing tool-augmented large language models via meta-verification and reflection learning. Proceedings of the Proceedings of the 31st ACM SIGKDD Conference on Knowledge Discovery and Data Mining V. 2, 2078–2089.",
+    "url": "",
+    "searchUrl": "https://scholar.google.com/scholar?q=Advancing%20tool-augmented%20large%20language%20models%20via%20meta-verification%20and%20reflection%20learning",
+    "stage": "Reasoning",
+    "subcategory": "Trajectory Optimization",
+    "approach": "Policy Refinement",
+    "method": "Tool-MVR",
+    "code": "https://github.com/zhymma/Tool-MVR",
+    "venue": "KDD 2025",
+    "resources": [
+      "Latency",
+      "Calls",
+      "Cost"
+    ],
+    "learning": "Reflection Learning",
+    "scenario": "General",
+    "linkType": "Search",
+    "notes": [
+      "Direct paper URL not present in the extracted bibliography; title search provided."
+    ]
+  },
+  {
+    "id": 81,
+    "title": "Codetool: Enhancing programmatic tool invocation of llms via process supervision",
+    "authors": "Lu, Y., F. Ye, J. Li, Q. Gao, C. Liu, H. Luo, N. Du, X. Li, and F. Ren",
+    "year": 2025,
+    "citation": "Lu, Y., F. Ye, J. Li, Q. Gao, C. Liu, H. Luo, N. Du, X. Li, and F. Ren. 2025. Codetool: Enhancing programmatic tool invocation of llms via process supervision. arXiv arXiv:2503.20840.",
+    "url": "https://arxiv.org/abs/2503.20840",
+    "searchUrl": "https://scholar.google.com/scholar?q=Codetool%3A%20Enhancing%20programmatic%20tool%20invocation%20of%20llms%20via%20process%20supervision",
+    "stage": "Reasoning",
+    "subcategory": "Trajectory Optimization",
+    "approach": "Policy Refinement",
+    "method": "CodeTool",
+    "code": "https://github.com/LimOkii/CodeTool",
+    "venue": "ACL 2025",
+    "resources": [
+      "Tokens"
+    ],
+    "learning": "Process Supervision",
+    "scenario": "Coding",
+    "linkType": "Paper",
+    "notes": []
+  },
+  {
+    "id": 82,
+    "title": "A joint optimization framework for enhancing efficiency of tool utilization in llm agents",
+    "authors": "Wu, B., E. Meij, and E. Yilmaz",
+    "year": 2025,
+    "citation": "Wu, B., E. Meij, and E. Yilmaz. 2025. A joint optimization framework for enhancing efficiency of tool utilization in llm agents. Proceedings of the Findings of the Association for Computational Linguistics: ACL 2025: 22361–22373.",
+    "url": "",
+    "searchUrl": "https://scholar.google.com/scholar?q=A%20joint%20optimization%20framework%20for%20enhancing%20efficiency%20of%20tool%20utilization%20in%20llm%20agents",
+    "stage": "Reasoning",
+    "subcategory": "Trajectory Optimization",
+    "approach": "Policy Refinement",
+    "method": "Wu et al. 2025",
+    "code": "https://github.com/Bingo-W/ToolOptimization",
+    "venue": "ACL 2025",
+    "resources": [
+      "Latency",
+      "Calls"
+    ],
+    "learning": "Prompt Optimization",
+    "scenario": "General",
+    "linkType": "Search",
+    "notes": [
+      "Direct paper URL not present in the extracted bibliography; title search provided."
+    ]
+  },
+  {
+    "id": 83,
+    "title": "Toolplanner: A tool augmented llm for multi granularity instructions with path planning and feedback",
+    "authors": "Wu, Q., W. Liu, J. Luan, and B. Wang",
+    "year": 2024,
+    "citation": "Wu, Q., W. Liu, J. Luan, and B. Wang. 2024. Toolplanner: A tool augmented llm for multi granularity instructions with path planning and feedback. Proceedings of the Proceedings of the 2024 Conference on Empirical Methods in Natural Language Processing; pp. 18315–18339.",
+    "url": "",
+    "searchUrl": "https://scholar.google.com/scholar?q=Toolplanner%3A%20A%20tool%20augmented%20llm%20for%20multi%20granularity%20instructions%20with%20path%20planning%20and%20feedback",
+    "stage": "Reasoning",
+    "subcategory": "Trajectory Optimization",
+    "approach": "Structured Exploration",
+    "method": "ToolPlanner",
+    "code": "https://github.com/XiaoMi/toolplanner",
+    "venue": "EMNLP 2024",
+    "resources": [
+      "Calls"
+    ],
+    "learning": "SFT + RRHF",
+    "scenario": "User Assistants",
+    "linkType": "Search",
+    "notes": [
+      "Direct paper URL not present in the extracted bibliography; title search provided."
+    ]
+  },
+  {
+    "id": 84,
+    "title": "Advancing tool-augmented large language models: Integrating insights from errors in inference trees",
+    "authors": "Chen, S., Y. Wang, Y.F. Wu, Q.G. Chen, Z. Xu, W. Luo, K. Zhang, and L. Zhang",
+    "year": 2024,
+    "citation": "Chen, S., Y. Wang, Y.F. Wu, Q.G. Chen, Z. Xu, W. Luo, K. Zhang, and L. Zhang. 2024. Advancing tool-augmented large language models: Integrating insights from errors in inference trees. Advances in Neural Information Processing Systems 37: 106555–106581.",
+    "url": "",
+    "searchUrl": "https://scholar.google.com/scholar?q=Advancing%20tool-augmented%20large%20language%20models%3A%20Integrating%20insights%20from%20errors%20in%20inference%20trees",
+    "stage": "Reasoning",
+    "subcategory": "Trajectory Optimization",
+    "approach": "Policy Refinement",
+    "method": "ToolPrefer-LLaMA",
+    "code": "",
+    "venue": "NeurIPS 2024",
+    "resources": [
+      "Calls"
+    ],
+    "learning": "SFT + DPO",
+    "scenario": "General",
+    "linkType": "Search",
+    "notes": [
+      "Direct paper URL not present in the extracted bibliography; title search provided."
+    ]
+  },
+  {
+    "id": 85,
+    "title": "Toolchain*: Efficient action space navigation in large language models with a* search",
+    "authors": "Zhuang, Y., X. Chen, T. Yu, S. Mitra, V. Bursztyn, R.A. Rossi, S. Sarkhel, and C. Zhang",
+    "year": 2023,
+    "citation": "Zhuang, Y., X. Chen, T. Yu, S. Mitra, V. Bursztyn, R.A. Rossi, S. Sarkhel, and C. Zhang. 2023. Toolchain*: Efficient action space navigation in large language models with a* search. arXiv arXiv:2310.13227.",
+    "url": "https://arxiv.org/abs/2310.13227",
+    "searchUrl": "https://scholar.google.com/scholar?q=Toolchain%2A%3A%20Efficient%20action%20space%20navigation%20in%20large%20language%20models%20with%20a%2A%20search",
+    "stage": "Reasoning",
+    "subcategory": "Trajectory Optimization",
+    "approach": "Structured Exploration",
+    "method": "ToolChain*",
+    "code": "",
+    "venue": "ICLR 2024",
+    "resources": [
+      "Latency"
+    ],
+    "learning": "Training-free",
+    "scenario": "General",
+    "linkType": "Paper",
+    "notes": []
+  },
+  {
+    "id": 86,
+    "title": "Tree-planner: Efficient close-loop task planning with large language models",
+    "authors": "Hu, M., Y. Mu, X. Yu, M. Ding, S. Wu, W. Shao, Q. Chen, B. Wang, Y. Qiao, and P. Luo",
+    "year": 2023,
+    "citation": "Hu, M., Y. Mu, X. Yu, M. Ding, S. Wu, W. Shao, Q. Chen, B. Wang, Y. Qiao, and P. Luo. 2023. Tree-planner: Efficient close-loop task planning with large language models. arXiv arXiv:2310.08582.",
+    "url": "https://arxiv.org/abs/2310.08582",
+    "searchUrl": "https://scholar.google.com/scholar?q=Tree-planner%3A%20Efficient%20close-loop%20task%20planning%20with%20large%20language%20models",
+    "stage": "Reasoning",
+    "subcategory": "Trajectory Optimization",
+    "approach": "Structured Exploration",
+    "method": "Tree-Planner",
+    "code": "https://github.com/Aaron617/tree-planner",
+    "venue": "ICLR 2024",
+    "resources": [
+      "Tokens",
+      "Cost"
+    ],
+    "learning": "Training-free",
+    "scenario": "Embodied Tasks",
+    "linkType": "Paper",
+    "notes": []
+  },
+  {
+    "id": 87,
+    "title": "AgenticCache: Cache-Driven Asynchronous Planning for Embodied AI Agents",
+    "authors": "Kim, H., Y. Wu, and T. Tambe",
+    "year": 2026,
+    "citation": "Kim, H., Y. Wu, and T. Tambe. AgenticCache: Cache-Driven Asynchronous Planning for Embodied AI Agents, 2026. arXiv arXiv:cs.",
+    "url": "",
+    "searchUrl": "https://scholar.google.com/scholar?q=AgenticCache%3A%20Cache-Driven%20Asynchronous%20Planning%20for%20Embodied%20AI%20Agents",
+    "stage": "Reasoning",
+    "subcategory": "Reasoning Reuse",
+    "approach": "Plan Caching",
+    "method": "AgenticCache",
+    "code": "https://github.com/hojoonleokim/MLSys26_AgenticCache",
+    "venue": "MLSys 2026",
+    "resources": [
+      "Tokens",
+      "Latency",
+      "Calls",
+      "Cost"
+    ],
+    "learning": "Training-free",
+    "scenario": "Embodied Tasks",
+    "linkType": "Search",
+    "notes": [
+      "Direct paper URL not present in the extracted bibliography; title search provided."
+    ]
+  },
+  {
+    "id": 88,
+    "title": "SemanticALLI: Caching Reasoning, Not Just Responses, in Agentic Systems",
+    "authors": "Chillara, V., D. Kline, C. Alvares, E. Wooten, H. Yang, S. Khetan, C. Bauer, T. Guillory, T. Shah, Y. Dhariwal, and et al",
+    "year": 2026,
+    "citation": "Chillara, V., D. Kline, C. Alvares, E. Wooten, H. Yang, S. Khetan, C. Bauer, T. Guillory, T. Shah, Y. Dhariwal, and et al. 2026. SemanticALLI: Caching Reasoning, Not Just Responses, in Agentic Systems. arXiv arXiv:2601.16286.",
+    "url": "https://arxiv.org/abs/2601.16286",
+    "searchUrl": "https://scholar.google.com/scholar?q=SemanticALLI%3A%20Caching%20Reasoning%2C%20Not%20Just%20Responses%2C%20in%20Agentic%20Systems",
+    "stage": "Reasoning",
+    "subcategory": "Reasoning Reuse",
+    "approach": "Plan Caching",
+    "method": "SemanticALLI",
+    "code": "",
+    "venue": "Preprint 2026",
+    "resources": [
+      "Tokens",
+      "Latency",
+      "Cost"
+    ],
+    "learning": "Training-free",
+    "scenario": "Marketing",
+    "linkType": "Paper",
+    "notes": []
+  },
+  {
+    "id": 89,
+    "title": "Beyond Domains: Reusing Web Skills via Transferable Interaction Patterns",
+    "authors": "He, S., Y. Cui, F. Wu, X. Ma, J. Lu, Y. Li, B. Ding, and M. Chowdhury",
+    "year": 2026,
+    "citation": "He, S., Y. Cui, F. Wu, X. Ma, J. Lu, Y. Li, B. Ding, and M. Chowdhury. 2026. Beyond Domains: Reusing Web Skills via Transferable Interaction Patterns. arXiv arXiv:cs.",
+    "url": "",
+    "searchUrl": "https://scholar.google.com/scholar?q=Beyond%20Domains%3A%20Reusing%20Web%20Skills%20via%20Transferable%20Interaction%20Patterns",
+    "stage": "Reasoning",
+    "subcategory": "Reasoning Reuse",
+    "approach": "Plan Caching",
+    "method": "SkillMigrator",
+    "code": "",
+    "venue": "Preprint 2026",
+    "resources": [
+      "Calls"
+    ],
+    "learning": "Training-free",
+    "scenario": "Web Navigation",
+    "linkType": "Search",
+    "notes": [
+      "Direct paper URL not present in the extracted bibliography; title search provided."
+    ]
+  },
+  {
+    "id": 90,
+    "title": "From Atomic Actions to Standard Operating Procedures: Iterative Tool Optimization for Self-Evolving LLM Agents",
+    "authors": "Ding, H., Y. Xie, Z. Wei, Y. Li, and B. Ding",
+    "year": 2026,
+    "citation": "Ding, H., Y. Xie, Z. Wei, Y. Li, and B. Ding. 2026. From Atomic Actions to Standard Operating Procedures: Iterative Tool Optimization for Self-Evolving LLM Agents. arXiv arXiv:cs.",
+    "url": "",
+    "searchUrl": "https://scholar.google.com/scholar?q=From%20Atomic%20Actions%20to%20Standard%20Operating%20Procedures%3A%20Iterative%20Tool%20Optimization%20for%20Self-Evolving%20LLM%20Agents",
+    "stage": "Reasoning",
+    "subcategory": "Reasoning Reuse",
+    "approach": "Plan Caching",
+    "method": "EvoSOP",
+    "code": "",
+    "venue": "Preprint 2026",
+    "resources": [
+      "Calls"
+    ],
+    "learning": "Training-free",
+    "scenario": "General",
+    "linkType": "Search",
+    "notes": [
+      "Direct paper URL not present in the extracted bibliography; title search provided."
+    ]
+  },
+  {
+    "id": 91,
+    "title": "Tool-Making and Self-Evolving LLM Agents in Low-Latency Systems",
+    "authors": "Kujanpää, K., N. Liu, S. Alam, Y.R. Sura, T. Yang, K. Klinkner, and S. Malmasi",
+    "year": 2026,
+    "citation": "Kujanpää, K., N. Liu, S. Alam, Y.R. Sura, T. Yang, K. Klinkner, and S. Malmasi. 2026. Tool-Making and Self-Evolving LLM Agents in Low-Latency Systems. arXiv arXiv:2607.08010.",
+    "url": "https://arxiv.org/abs/2607.08010",
+    "searchUrl": "https://scholar.google.com/scholar?q=Tool-Making%20and%20Self-Evolving%20LLM%20Agents%20in%20Low-Latency%20Systems",
+    "stage": "Reasoning",
+    "subcategory": "Reasoning Reuse",
+    "approach": "Plan Caching",
+    "method": "Tool-Making",
+    "code": "",
+    "venue": "Preprint 2026",
+    "resources": [
+      "Tokens",
+      "Latency",
+      "Calls"
+    ],
+    "learning": "Distillation + SFT",
+    "scenario": "Industrial Operations",
+    "linkType": "Paper",
+    "notes": []
+  },
+  {
+    "id": 92,
+    "title": "A Plan Reuse Mechanism for LLM-Driven Agent",
+    "authors": "Guopeng, L., W. Ruiqi, T. Haisheng, and C. Guoliang",
+    "year": 2024,
+    "citation": "Guopeng, L., W. Ruiqi, T. Haisheng, and C. Guoliang. 2024. A Plan Reuse Mechanism for LLM-Driven Agent. Journal of Computer Research and Development 61: 2706–2720.",
+    "url": "",
+    "searchUrl": "https://scholar.google.com/scholar?q=A%20Plan%20Reuse%20Mechanism%20for%20LLM-Driven%20Agent",
+    "stage": "Reasoning",
+    "subcategory": "Reasoning Reuse",
+    "approach": "Plan Caching",
+    "method": "AgentReuse",
+    "code": "",
+    "venue": "JCRD 2024",
+    "resources": [
+      "Tokens",
+      "Latency",
+      "Calls",
+      "Cost"
+    ],
+    "learning": "Training-free",
+    "scenario": "User Assistants",
+    "linkType": "Search",
+    "notes": [
+      "Direct paper URL not present in the extracted bibliography; title search provided."
+    ]
+  },
+  {
+    "id": 93,
+    "title": "Agentic Plan Caching: Test-Time Memory for Fast and Cost-Efficient LLM Agents",
+    "authors": "Zhang, Q., M. Wornow, G. Wan, and K. Olukotun",
+    "year": 2025,
+    "citation": "Zhang, Q., M. Wornow, G. Wan, and K. Olukotun. 2025. Agentic Plan Caching: Test-Time Memory for Fast and Cost-Efficient LLM Agents. arXiv arXiv:2506.14852.",
+    "url": "https://arxiv.org/abs/2506.14852",
+    "searchUrl": "https://scholar.google.com/scholar?q=Agentic%20Plan%20Caching%3A%20Test-Time%20Memory%20for%20Fast%20and%20Cost-Efficient%20LLM%20Agents",
+    "stage": "Reasoning",
+    "subcategory": "Reasoning Reuse",
+    "approach": "Plan Caching",
+    "method": "APC",
+    "code": "",
+    "venue": "NeurIPS 2025",
+    "resources": [
+      "Tokens",
+      "Latency",
+      "Cost"
+    ],
+    "learning": "Training-free",
+    "scenario": "General",
+    "linkType": "Paper",
+    "notes": []
+  },
+  {
+    "id": 94,
+    "title": "Distilling llm agent into small models with retrieval and code tools",
+    "authors": "Kang, M., J. Jeong, S. Lee, J. Cho, and S.J. Hwang",
+    "year": 2025,
+    "citation": "Kang, M., J. Jeong, S. Lee, J. Cho, and S.J. Hwang. 2025. Distilling llm agent into small models with retrieval and code tools. arXiv arXiv:2505.17612.",
+    "url": "https://arxiv.org/abs/2505.17612",
+    "searchUrl": "https://scholar.google.com/scholar?q=Distilling%20llm%20agent%20into%20small%20models%20with%20retrieval%20and%20code%20tools",
+    "stage": "Reasoning",
+    "subcategory": "Reasoning Reuse",
+    "approach": "Reasoning Distillation",
+    "method": "Agent Distillation",
+    "code": "https://github.com/Nardien/agent-distillation",
+    "venue": "NeurIPS 2025",
+    "resources": [
+      "Tokens",
+      "Calls"
+    ],
+    "learning": "Distillation",
+    "scenario": "Math & QA",
+    "linkType": "Paper",
+    "notes": []
+  },
+  {
+    "id": 95,
+    "title": "ODIA: Oriented Distillation for Inline Acceleration of LLM-based Function Calling",
+    "authors": "Zhang, H., J. Yang, H. Li, Y. He, and F. Gong",
+    "year": 2025,
+    "citation": "Zhang, H., J. Yang, H. Li, Y. He, and F. Gong. 2025. ODIA: Oriented Distillation for Inline Acceleration of LLM-based Function Calling. arXiv arXiv:2507.08877.",
+    "url": "https://arxiv.org/abs/2507.08877",
+    "searchUrl": "https://scholar.google.com/scholar?q=ODIA%3A%20Oriented%20Distillation%20for%20Inline%20Acceleration%20of%20LLM-based%20Function%20Calling",
+    "stage": "Reasoning",
+    "subcategory": "Reasoning Reuse",
+    "approach": "Reasoning Distillation",
+    "method": "ODIA",
+    "code": "",
+    "venue": "Preprint 2025",
+    "resources": [
+      "Tokens",
+      "Latency",
+      "Calls"
+    ],
+    "learning": "Online Distillation",
+    "scenario": "Music",
+    "linkType": "Paper",
+    "notes": []
+  },
+  {
+    "id": 96,
+    "title": "Agentdistill: Training-free agent distillation with generalizable mcp boxes",
+    "authors": "Qiu, J., X. Juan, Y. Wang, L. Yang, X. Qi, T. Zhang, J. Guo, Y. Lu, Z. Yao, H. Wang, and et al",
+    "year": 2025,
+    "citation": "Qiu, J., X. Juan, Y. Wang, L. Yang, X. Qi, T. Zhang, J. Guo, Y. Lu, Z. Yao, H. Wang, and et al. 2025. Agentdistill: Training-free agent distillation with generalizable mcp boxes. arXiv arXiv:2506.14728.",
+    "url": "https://arxiv.org/abs/2506.14728",
+    "searchUrl": "https://scholar.google.com/scholar?q=Agentdistill%3A%20Training-free%20agent%20distillation%20with%20generalizable%20mcp%20boxes",
+    "stage": "Reasoning",
+    "subcategory": "Reasoning Reuse",
+    "approach": "Reasoning Distillation",
+    "method": "AgentDistill",
+    "code": "https://github.com/shimu0215/AgentDistill",
+    "venue": "Preprint 2025",
+    "resources": [
+      "Latency",
+      "Calls",
+      "Cost"
+    ],
+    "learning": "Training-free Distillation",
+    "scenario": "Biomedical & Math",
+    "linkType": "Paper",
+    "notes": []
+  },
+  {
+    "id": 97,
+    "title": "Tinyagent: Function calling at the edge",
+    "authors": "Erdogan, L.E., N. Lee, S. Jha, S. Kim, R. Tabrizi, S. Moon, C.R.C. Hooper, G. Anumanchipalli, K. Keutzer, and A. Gholami",
+    "year": 2024,
+    "citation": "Erdogan, L.E., N. Lee, S. Jha, S. Kim, R. Tabrizi, S. Moon, C.R.C. Hooper, G. Anumanchipalli, K. Keutzer, and A. Gholami. 2024. Tinyagent: Function calling at the edge. Proceedings of the Proceedings of the 2024 Conference on Empirical Methods in Natural Language Processing: System Demonstrations; pp. 80–88.",
+    "url": "",
+    "searchUrl": "https://scholar.google.com/scholar?q=Tinyagent%3A%20Function%20calling%20at%20the%20edge",
+    "stage": "Reasoning",
+    "subcategory": "Reasoning Reuse",
+    "approach": "Reasoning Distillation",
+    "method": "TinyAgent",
+    "code": "https://github.com/SqueezeAILab/TinyAgent",
+    "venue": "EMNLP 2024",
+    "resources": [
+      "Latency",
+      "Calls",
+      "Cost"
+    ],
+    "learning": "SFT",
+    "scenario": "Edge Devices",
+    "linkType": "Search",
+    "notes": [
+      "Direct paper URL not present in the extracted bibliography; title search provided."
+    ]
+  },
+  {
+    "id": 98,
+    "title": "ToolCaching: Towards Efficient Caching for LLM Tool-calling",
+    "authors": "Zhai, Y., D. Shen, J. Luo, and B. Yang",
+    "year": 2026,
+    "citation": "Zhai, Y., D. Shen, J. Luo, and B. Yang. 2026. ToolCaching: Towards Efficient Caching for LLM Tool-calling. arXiv arXiv:2601.15335.",
+    "url": "https://arxiv.org/abs/2601.15335",
+    "searchUrl": "https://scholar.google.com/scholar?q=ToolCaching%3A%20Towards%20Efficient%20Caching%20for%20LLM%20Tool-calling",
+    "stage": "Execution",
+    "subcategory": "Results Caching",
+    "approach": "Tool-Level Caching",
+    "method": "ToolCaching",
+    "code": "",
+    "venue": "Preprint 2026",
+    "resources": [
+      "Latency"
+    ],
+    "learning": "Training-free",
+    "scenario": "General",
+    "linkType": "Paper",
+    "notes": []
+  },
+  {
+    "id": 99,
+    "title": "Cortex: Achieving {Low-Latency},{Cost-Efficient} Remote Data Access For {LLM} via {Semantic-Aware} Knowledge Caching",
+    "authors": "Ruan, C., C. Bi, K. Zheng, Z. Shi, X. Wan, and J. Li",
+    "year": 2026,
+    "citation": "Ruan, C., C. Bi, K. Zheng, Z. Shi, X. Wan, and J. Li. 2026. Cortex: Achieving {Low-Latency},{Cost-Efficient} Remote Data Access For {LLM} via {Semantic-Aware} Knowledge Caching. Proceedings of the 23rd USENIX Symposium on Networked Systems Design and Implementation (NSDI 26); pp. 2407–2421.",
+    "url": "",
+    "searchUrl": "https://scholar.google.com/scholar?q=Cortex%3A%20Achieving%20%7BLow-Latency%7D%2C%7BCost-Efficient%7D%20Remote%20Data%20Access%20For%20%7BLLM%7D%20via%20%7BSemantic-Aware%7D%20Knowledge%20Caching",
+    "stage": "Execution",
+    "subcategory": "Results Caching",
+    "approach": "Tool-Level Caching",
+    "method": "Cortex",
+    "code": "",
+    "venue": "NSDI 2026",
+    "resources": [
+      "Latency",
+      "Calls",
+      "Cost"
+    ],
+    "learning": "Training-free",
+    "scenario": "Search & Coding",
+    "linkType": "Search",
+    "notes": [
+      "Direct paper URL not present in the extracted bibliography; title search provided."
+    ]
+  },
+  {
+    "id": 100,
+    "title": "Decoupling Search from Reasoning: A Vendor-Agnostic Grounding Architecture for LLM Agents",
+    "authors": "Boateng, E.A., K. MacDonald, A. Kumar, S. Kodwani, and S. Das",
+    "year": 2026,
+    "citation": "Boateng, E.A., K. MacDonald, A. Kumar, S. Kodwani, and S. Das. 2026. Decoupling Search from Reasoning: A Vendor-Agnostic Grounding Architecture for LLM Agents. arXiv arXiv:cs.",
+    "url": "",
+    "searchUrl": "https://scholar.google.com/scholar?q=Decoupling%20Search%20from%20Reasoning%3A%20A%20Vendor-Agnostic%20Grounding%20Architecture%20for%20LLM%20Agents",
+    "stage": "Execution",
+    "subcategory": "Results Caching",
+    "approach": "Tool-Level Caching",
+    "method": "DSG",
+    "code": "",
+    "venue": "Preprint 2026",
+    "resources": [
+      "Latency",
+      "Calls",
+      "Cost"
+    ],
+    "learning": "Training-free",
+    "scenario": "Search & E-commerce",
+    "linkType": "Search",
+    "notes": [
+      "Direct paper URL not present in the extracted bibliography; title search provided."
+    ]
+  },
+  {
+    "id": 101,
+    "title": "TVCACHE: A Stateful Tool-Value Cache for Post-Training LLM Agents",
+    "authors": "Kumar, A.V., B. Kataria, B. Oh, E. Manzoor, and R. Singh",
+    "year": 2026,
+    "citation": "Kumar, A.V., B. Kataria, B. Oh, E. Manzoor, and R. Singh. 2026. TVCACHE: A Stateful Tool-Value Cache for Post-Training LLM Agents. arXiv arXiv:2602.10986.",
+    "url": "https://arxiv.org/abs/2602.10986",
+    "searchUrl": "https://scholar.google.com/scholar?q=TVCACHE%3A%20A%20Stateful%20Tool-Value%20Cache%20for%20Post-Training%20LLM%20Agents",
+    "stage": "Execution",
+    "subcategory": "Results Caching",
+    "approach": "System-Level Caching",
+    "method": "TVCache",
+    "code": "https://github.com/TVCache/TVCache",
+    "venue": "Preprint 2026",
+    "resources": [
+      "Latency"
+    ],
+    "learning": "Training-free",
+    "scenario": "Agent Post-Training",
+    "linkType": "Paper",
+    "notes": []
+  },
+  {
+    "id": 102,
+    "title": "Optimizing FaaS Platforms for MCP-enabled Agentic Workflows",
+    "authors": "Kulkarni, V., V. Jha, N. Reddy, A. Eswaran, P. Jayachandran, and Y. Simmhan",
+    "year": 2026,
+    "citation": "Kulkarni, V., V. Jha, N. Reddy, A. Eswaran, P. Jayachandran, and Y. Simmhan. 2026. Optimizing FaaS Platforms for MCP-enabled Agentic Workflows. arXiv arXiv:2601.14735.",
+    "url": "https://arxiv.org/abs/2601.14735",
+    "searchUrl": "https://scholar.google.com/scholar?q=Optimizing%20FaaS%20Platforms%20for%20MCP-enabled%20Agentic%20Workflows",
+    "stage": "Execution",
+    "subcategory": "Results Caching",
+    "approach": "System-Level Caching",
+    "method": "FAME",
+    "code": "",
+    "venue": "Preprint 2026",
+    "resources": [
+      "Tokens",
+      "Latency",
+      "Cost"
+    ],
+    "learning": "Training-free",
+    "scenario": "Paper Summarization",
+    "linkType": "Paper",
+    "notes": []
+  },
+  {
+    "id": 103,
+    "title": "Evaluating Temporal Semantic Caching and Workflow Optimization in Agentic Plan-Execute Pipelines",
+    "authors": "Merchant, A.M., K. Veera, S.K. Goyla, S. Bhure, D. Patel, and K.E. Maghraoui",
+    "year": 2026,
+    "citation": "Merchant, A.M., K. Veera, S.K. Goyla, S. Bhure, D. Patel, and K.E. Maghraoui. Evaluating Temporal Semantic Caching and Workflow Optimization in Agentic Plan-Execute Pipelines, 2026. arXiv arXiv:cs.",
+    "url": "",
+    "searchUrl": "https://scholar.google.com/scholar?q=Evaluating%20Temporal%20Semantic%20Caching%20and%20Workflow%20Optimization%20in%20Agentic%20Plan-Execute%20Pipelines",
+    "stage": "Execution",
+    "subcategory": "Results Caching",
+    "approach": "System-Level Caching",
+    "method": "Merchant et al. 2026",
+    "code": "",
+    "venue": "Preprint 2026",
+    "resources": [
+      "Latency",
+      "Calls"
+    ],
+    "learning": "Training-free",
+    "scenario": "Asset Operations",
+    "linkType": "Search",
+    "notes": [
+      "Direct paper URL not present in the extracted bibliography; title search provided."
+    ]
+  },
+  {
+    "id": 104,
+    "title": "Tool Cache Agent: Accelerating LLM Agent Through Intelligent Tool Call Caching",
+    "authors": "Kwon, J",
+    "year": 2025,
+    "citation": "Kwon, J. 2025. Tool Cache Agent: Accelerating LLM Agent Through Intelligent Tool Call Caching.",
+    "url": "",
+    "searchUrl": "https://scholar.google.com/scholar?q=Tool%20Cache%20Agent%3A%20Accelerating%20LLM%20Agent%20Through%20Intelligent%20Tool%20Call%20Caching",
+    "stage": "Execution",
+    "subcategory": "Results Caching",
+    "approach": "Tool-Level Caching",
+    "method": "Tool Cache Agent",
+    "code": "",
+    "venue": "Preprint 2025",
+    "resources": [
+      "Latency"
+    ],
+    "learning": "Training-free",
+    "scenario": "General",
+    "linkType": "Search",
+    "notes": [
+      "Direct paper URL not present in the extracted bibliography; title search provided."
+    ]
+  },
+  {
+    "id": 105,
+    "title": "Llm-dcache: improving tool-augmented llms with gpt-driven localized data caching",
+    "authors": "Singh, S., M. Fore, A. Karatzas, C. Lee, Y. Jian, L. Shangguan, F. Yu, I. Anagnostopoulos, and D. Stamoulis",
+    "year": 2024,
+    "citation": "Singh, S., M. Fore, A. Karatzas, C. Lee, Y. Jian, L. Shangguan, F. Yu, I. Anagnostopoulos, and D. Stamoulis. 2024. Llm-dcache: improving tool-augmented llms with gpt-driven localized data caching. arXiv arXiv:2406.06799.",
+    "url": "https://arxiv.org/abs/2406.06799",
+    "searchUrl": "https://scholar.google.com/scholar?q=Llm-dcache%3A%20improving%20tool-augmented%20llms%20with%20gpt-driven%20localized%20data%20caching",
+    "stage": "Execution",
+    "subcategory": "Results Caching",
+    "approach": "Tool-Level Caching",
+    "method": "LLM-dCache",
+    "code": "",
+    "venue": "ICECS 2024",
+    "resources": [
+      "Latency"
+    ],
+    "learning": "Training-free",
+    "scenario": "Geospatial Sensing",
+    "linkType": "Paper",
+    "notes": []
+  },
+  {
+    "id": 106,
+    "title": "Gptcache: An open-source semantic cache for llm applications enabling faster answers and cost savings",
+    "authors": "Bang, F",
+    "year": 2023,
+    "citation": "Bang, F. 2023. Gptcache: An open-source semantic cache for llm applications enabling faster answers and cost savings. Proceedings of the Proceedings of the 3rd Workshop for Natural Language Processing Open Source Software (NLP-OSS 2023); pp. 212–218.",
+    "url": "",
+    "searchUrl": "https://scholar.google.com/scholar?q=Gptcache%3A%20An%20open-source%20semantic%20cache%20for%20llm%20applications%20enabling%20faster%20answers%20and%20cost%20savings",
+    "stage": "Execution",
+    "subcategory": "Results Caching",
+    "approach": "Tool-Level Caching",
+    "method": "GPTCache",
+    "code": "https://github.com/zilliztech/gptcache",
+    "venue": "NLP-OSS 2023",
+    "resources": [
+      "Tokens",
+      "Latency",
+      "Calls",
+      "Cost"
+    ],
+    "learning": "Training-free",
+    "scenario": "General",
+    "linkType": "Search",
+    "notes": [
+      "Direct paper URL not present in the extracted bibliography; title search provided."
+    ]
+  },
+  {
+    "id": 107,
+    "title": "ToolSpec: Accelerating Tool Calling via Schema-Aware and Retrieval-Augmented Speculative Decoding",
+    "authors": "Xia, H., Y. Li, C. Du, M. Song, and W. Li",
+    "year": 2026,
+    "citation": "Xia, H., Y. Li, C. Du, M. Song, and W. Li. ToolSpec: Accelerating Tool Calling via Schema-Aware and Retrieval-Augmented Speculative Decoding, 2026. arXiv arXiv:cs.",
+    "url": "",
+    "searchUrl": "https://scholar.google.com/scholar?q=ToolSpec%3A%20Accelerating%20Tool%20Calling%20via%20Schema-Aware%20and%20Retrieval-Augmented%20Speculative%20Decoding",
+    "stage": "Execution",
+    "subcategory": "Parallel Execution",
+    "approach": "Decoding-Tool Parallelism",
+    "method": "ToolSpec",
+    "code": "https://github.com/hemingkx/ToolSpec",
+    "venue": "Preprint 2026",
+    "resources": [
+      "Latency"
+    ],
+    "learning": "Training-free",
+    "scenario": "General",
+    "linkType": "Search",
+    "notes": [
+      "Direct paper URL not present in the extracted bibliography; title search provided."
+    ]
+  },
+  {
+    "id": 108,
+    "title": "Concurrency without Model Changes: Future-based Asynchronous Function Calling for LLMs",
+    "authors": "Feng, G., H. Mao, P. Dutta, and J.E. Gonzalez",
+    "year": 2026,
+    "citation": "Feng, G., H. Mao, P. Dutta, and J.E. Gonzalez. Concurrency without Model Changes: Future-based Asynchronous Function Calling for LLMs, 2026. arXiv arXiv:cs.",
+    "url": "",
+    "searchUrl": "https://scholar.google.com/scholar?q=Concurrency%20without%20Model%20Changes%3A%20Future-based%20Asynchronous%20Function%20Calling%20for%20LLMs",
+    "stage": "Execution",
+    "subcategory": "Parallel Execution",
+    "approach": "Decoding-Tool Parallelism",
+    "method": "AsyncFC",
+    "code": "",
+    "venue": "Preprint 2026",
+    "resources": [
+      "Latency"
+    ],
+    "learning": "Training-free",
+    "scenario": "General",
+    "linkType": "Search",
+    "notes": [
+      "Direct paper URL not present in the extracted bibliography; title search provided."
+    ]
+  },
+  {
+    "id": 109,
+    "title": "IdleSpec: Exploiting Idle Time via Speculative Planning for LLM Agents",
+    "authors": "Choi, D., K. Park, W. Song, S. Dingliwal, S.M. Jayanthi, J. Shin, and A. Galstyan",
+    "year": 2026,
+    "citation": "Choi, D., K. Park, W. Song, S. Dingliwal, S.M. Jayanthi, J. Shin, and A. Galstyan. IdleSpec: Exploiting Idle Time via Speculative Planning for LLM Agents, 2026. arXiv arXiv:cs.",
+    "url": "",
+    "searchUrl": "https://scholar.google.com/scholar?q=IdleSpec%3A%20Exploiting%20Idle%20Time%20via%20Speculative%20Planning%20for%20LLM%20Agents",
+    "stage": "Execution",
+    "subcategory": "Parallel Execution",
+    "approach": "Decoding-Tool Parallelism",
+    "method": "IdleSpec",
+    "code": "",
+    "venue": "Preprint 2026",
+    "resources": [
+      "Latency"
+    ],
+    "learning": "Training-free",
+    "scenario": "General",
+    "linkType": "Search",
+    "notes": [
+      "Direct paper URL not present in the extracted bibliography; title search provided."
+    ]
+  },
+  {
+    "id": 110,
+    "title": "Sutradhara: An Intelligent Orchestrator-Engine Co-design for Tool-based Agentic Inference",
+    "authors": "Biswas, A., K. Goel, J. Mohan, A. Khare, A. Parayil, R. Ramjee, and C. Bansal",
+    "year": 2026,
+    "citation": "Biswas, A., K. Goel, J. Mohan, A. Khare, A. Parayil, R. Ramjee, and C. Bansal. 2026. Sutradhara: An Intelligent Orchestrator-Engine Co-design for Tool-based Agentic Inference. arXiv arXiv:2601.12967.",
+    "url": "https://arxiv.org/abs/2601.12967",
+    "searchUrl": "https://scholar.google.com/scholar?q=Sutradhara%3A%20An%20Intelligent%20Orchestrator-Engine%20Co-design%20for%20Tool-based%20Agentic%20Inference",
+    "stage": "Execution",
+    "subcategory": "Parallel Execution",
+    "approach": "Decoding-Tool Parallelism",
+    "method": "Sutradhara",
+    "code": "",
+    "venue": "ASPLOS 2026",
+    "resources": [
+      "Latency"
+    ],
+    "learning": "Training-free",
+    "scenario": "General",
+    "linkType": "Paper",
+    "notes": []
+  },
+  {
+    "id": 111,
+    "title": "Robust and Efficient Tool Orchestration via Layered Execution Structures with Reflective Correction",
+    "authors": "Zhe, T., H. Wang, B. Luo, M. Wu, W. Fan, X. Luo, Z. Yao, H. Chen, and D. Wang",
+    "year": 2026,
+    "citation": "Zhe, T., H. Wang, B. Luo, M. Wu, W. Fan, X. Luo, Z. Yao, H. Chen, and D. Wang. 2026. Robust and Efficient Tool Orchestration via Layered Execution Structures with Reflective Correction. arXiv arXiv:2602.18968.",
+    "url": "https://arxiv.org/abs/2602.18968",
+    "searchUrl": "https://scholar.google.com/scholar?q=Robust%20and%20Efficient%20Tool%20Orchestration%20via%20Layered%20Execution%20Structures%20with%20Reflective%20Correction",
+    "stage": "Execution",
+    "subcategory": "Parallel Execution",
+    "approach": "Inter-Tool Parallelism",
+    "method": "RETO",
+    "code": "",
+    "venue": "Preprint 2026",
+    "resources": [
+      "Tokens"
+    ],
+    "learning": "SFT",
+    "scenario": "General",
+    "linkType": "Paper",
+    "notes": []
+  },
+  {
+    "id": 112,
+    "title": "Why Parallel Tool Calling Matters for LLM Agents",
+    "authors": "CodeAnt, AI",
+    "year": 2026,
+    "citation": "CodeAnt, AI. 2026. Why Parallel Tool Calling Matters for LLM Agents. Blog post.",
+    "url": "",
+    "searchUrl": "https://scholar.google.com/scholar?q=Why%20Parallel%20Tool%20Calling%20Matters%20for%20LLM%20Agents",
+    "stage": "Background",
+    "subcategory": "Industry & engineering",
+    "approach": "",
+    "method": "Parallel Tool Calling",
+    "code": "",
+    "venue": "",
+    "resources": [],
+    "learning": "",
+    "scenario": "",
+    "linkType": "Search",
+    "notes": [
+      "Direct paper URL not present in the extracted bibliography; title search provided."
+    ]
+  },
+  {
+    "id": 113,
+    "title": "Efficient tool use with chain-of-abstraction reasoning",
+    "authors": "Gao, S., J. Dwivedi-Yu, P. Yu, X.E. Tan, R. Pasunuru, O. Golovneva, K. Sinha, A. Celikyilmaz, A. Bosselut, and T. Wang",
+    "year": 2025,
+    "citation": "Gao, S., J. Dwivedi-Yu, P. Yu, X.E. Tan, R. Pasunuru, O. Golovneva, K. Sinha, A. Celikyilmaz, A. Bosselut, and T. Wang. 2025. Efficient tool use with chain-of-abstraction reasoning. Proceedings of the Proceedings of the 31st International Conference on Computational Linguistics; pp. 2727–2743.",
+    "url": "",
+    "searchUrl": "https://scholar.google.com/scholar?q=Efficient%20tool%20use%20with%20chain-of-abstraction%20reasoning",
+    "stage": "Execution",
+    "subcategory": "Parallel Execution",
+    "approach": "Decoding-Tool Parallelism",
+    "method": "CoA",
+    "code": "https://github.com/Silin159/CoA",
+    "venue": "COLING 2025",
+    "resources": [
+      "Latency"
+    ],
+    "learning": "SFT",
+    "scenario": "Math & Wiki QA",
+    "linkType": "Search",
+    "notes": [
+      "Direct paper URL not present in the extracted bibliography; title search provided."
+    ]
+  },
+  {
+    "id": 114,
+    "title": "GhostShell: Streaming LLM Function Calls for Concurrent Embodied Programming",
+    "authors": "Gong, J., Y. Huang, B. Yuan, M. Zhu, Z. Liao, J. Liang, J. Zhan, J. Wang, H. Shu, M. Xiong, and et al",
+    "year": 2025,
+    "citation": "Gong, J., Y. Huang, B. Yuan, M. Zhu, Z. Liao, J. Liang, J. Zhan, J. Wang, H. Shu, M. Xiong, and et al. 2025. GhostShell: Streaming LLM Function Calls for Concurrent Embodied Programming. arXiv arXiv:2508.05298.",
+    "url": "https://arxiv.org/abs/2508.05298",
+    "searchUrl": "https://scholar.google.com/scholar?q=GhostShell%3A%20Streaming%20LLM%20Function%20Calls%20for%20Concurrent%20Embodied%20Programming",
+    "stage": "Execution",
+    "subcategory": "Parallel Execution",
+    "approach": "Decoding-Tool Parallelism",
+    "method": "GhostShell",
+    "code": "https://github.com/Coco-Robot/GhostShell",
+    "venue": "Preprint 2025",
+    "resources": [
+      "Latency"
+    ],
+    "learning": "Training-free",
+    "scenario": "Embodied Programming",
+    "linkType": "Paper",
+    "notes": []
+  },
+  {
+    "id": 115,
+    "title": "Efficient Function Orchestration for Large Language Models",
+    "authors": "Liu, X., P. Di, C. Li, J. Sun, and J. Wang",
+    "year": 2025,
+    "citation": "Liu, X., P. Di, C. Li, J. Sun, and J. Wang. 2025. Efficient Function Orchestration for Large Language Models. IEEE Transactions on Software Engineering.",
+    "url": "",
+    "searchUrl": "https://scholar.google.com/scholar?q=Efficient%20Function%20Orchestration%20for%20Large%20Language%20Models",
+    "stage": "Execution",
+    "subcategory": "Parallel Execution",
+    "approach": "Inter-Tool Parallelism",
+    "method": "LLMOrch",
+    "code": "",
+    "venue": "IEEE TSE 2026",
+    "resources": [
+      "Latency"
+    ],
+    "learning": "Training-free",
+    "scenario": "General",
+    "linkType": "Search",
+    "notes": [
+      "Direct paper URL not present in the extracted bibliography; title search provided."
+    ]
+  },
+  {
+    "id": 116,
+    "title": "Catp-llm: Empowering large language models for cost-aware tool planning",
+    "authors": "Wu, D., J. Wang, Y. Meng, Y. Zhang, L. Sun, and Z. Wang",
+    "year": 2025,
+    "citation": "Wu, D., J. Wang, Y. Meng, Y. Zhang, L. Sun, and Z. Wang. 2025. Catp-llm: Empowering large language models for cost-aware tool planning. Proceedings of the Proceedings of the IEEE/CVF International Conference on Computer Vision; pp. 8699–8709.",
+    "url": "",
+    "searchUrl": "https://scholar.google.com/scholar?q=Catp-llm%3A%20Empowering%20large%20language%20models%20for%20cost-aware%20tool%20planning",
+    "stage": "Execution",
+    "subcategory": "Parallel Execution",
+    "approach": "Inter-Tool Parallelism",
+    "method": "CATP-LLM",
+    "code": "https://github.com/duowuyms/OpenCATP-LLM",
+    "venue": "ICCV 2025",
+    "resources": [
+      "Latency",
+      "Cost"
+    ],
+    "learning": "Offline RL",
+    "scenario": "General",
+    "linkType": "Search",
+    "notes": [
+      "Direct paper URL not present in the extracted bibliography; title search provided.",
+      "Inline citation missing in source Section 3; matched to bibliography by method title."
+    ]
+  },
+  {
+    "id": 117,
+    "title": "GAP: Graph-Based Agent Planning with Parallel Tool Use and Reinforcement Learning",
+    "authors": "Wu, J., Q. Zhao, Z. Chen, K. Qin, Y. Zhao, X. Wang, and Y. Yao",
+    "year": 2025,
+    "citation": "Wu, J., Q. Zhao, Z. Chen, K. Qin, Y. Zhao, X. Wang, and Y. Yao. 2025. GAP: Graph-Based Agent Planning with Parallel Tool Use and Reinforcement Learning. arXiv arXiv:2510.25320.",
+    "url": "https://arxiv.org/abs/2510.25320",
+    "searchUrl": "https://scholar.google.com/scholar?q=GAP%3A%20Graph-Based%20Agent%20Planning%20with%20Parallel%20Tool%20Use%20and%20Reinforcement%20Learning",
+    "stage": "Execution",
+    "subcategory": "Parallel Execution",
+    "approach": "Inter-Tool Parallelism",
+    "method": "GAP",
+    "code": "https://github.com/WJQ7777/Graph-Agent-Planning",
+    "venue": "NORA @ NeurIPS 2025",
+    "resources": [
+      "Tokens",
+      "Latency"
+    ],
+    "learning": "SFT + RL",
+    "scenario": "QA",
+    "linkType": "Paper",
+    "notes": [
+      "Inline citation missing in source Section 3; matched to bibliography by method title."
+    ]
+  },
+  {
+    "id": 118,
+    "title": "Divide-then-aggregate: An efficient tool learning method via parallel tool invocation",
+    "authors": "Zhu, D., W. Shi, Z. Shi, Z. Ren, S. Wang, L. Yan, and D. Yin",
+    "year": 2025,
+    "citation": "Zhu, D., W. Shi, Z. Shi, Z. Ren, S. Wang, L. Yan, and D. Yin. 2025. Divide-then-aggregate: An efficient tool learning method via parallel tool invocation. Proceedings of the Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics Volume 1: 28859–28875.",
+    "url": "",
+    "searchUrl": "https://scholar.google.com/scholar?q=Divide-then-aggregate%3A%20An%20efficient%20tool%20learning%20method%20via%20parallel%20tool%20invocation",
+    "stage": "Execution",
+    "subcategory": "Parallel Execution",
+    "approach": "Inter-Tool Parallelism",
+    "method": "DTA-Llama",
+    "code": "https://github.com/Zhudongsheng75/Divide-Then-Aggregate",
+    "venue": "ACL 2025",
+    "resources": [
+      "Tokens",
+      "Latency"
+    ],
+    "learning": "SFT",
+    "scenario": "General",
+    "linkType": "Search",
+    "notes": [
+      "Direct paper URL not present in the extracted bibliography; title search provided."
+    ]
+  },
+  {
+    "id": 119,
+    "title": "Flash-searcher: Fast and effective web agents via dag-based parallel execution",
+    "authors": "Qin, T., Q. Chen, S. Wang, H. Xing, K. Zhu, H. Zhu, D. Shi, X. Liu, G. Zhang, J. Liu, and et al",
+    "year": 2025,
+    "citation": "Qin, T., Q. Chen, S. Wang, H. Xing, K. Zhu, H. Zhu, D. Shi, X. Liu, G. Zhang, J. Liu, and et al. 2025. Flash-searcher: Fast and effective web agents via dag-based parallel execution. arXiv arXiv:2509.25301.",
+    "url": "https://arxiv.org/abs/2509.25301",
+    "searchUrl": "https://scholar.google.com/scholar?q=Flash-searcher%3A%20Fast%20and%20effective%20web%20agents%20via%20dag-based%20parallel%20execution",
+    "stage": "Execution",
+    "subcategory": "Parallel Execution",
+    "approach": "Inter-Tool Parallelism",
+    "method": "FLASH-SEARCHER",
+    "code": "https://github.com/OPPO-PersonalAI/Flash-Searcher",
+    "venue": "ICLR 2026",
+    "resources": [
+      "Tokens",
+      "Latency",
+      "Cost"
+    ],
+    "learning": "SFT",
+    "scenario": "Search",
+    "linkType": "Paper",
+    "notes": []
+  },
+  {
+    "id": 120,
+    "title": "Conveyor: Efficient tool-aware llm serving with tool partial execution",
+    "authors": "Xu, Y., X. Kong, T. Chen, and D. Zhuo",
+    "year": 2024,
+    "citation": "Xu, Y., X. Kong, T. Chen, and D. Zhuo. 2024. Conveyor: Efficient tool-aware llm serving with tool partial execution. arXiv arXiv:2406.00059.",
+    "url": "https://arxiv.org/abs/2406.00059",
+    "searchUrl": "https://scholar.google.com/scholar?q=Conveyor%3A%20Efficient%20tool-aware%20llm%20serving%20with%20tool%20partial%20execution",
+    "stage": "Execution",
+    "subcategory": "Parallel Execution",
+    "approach": "Decoding-Tool Parallelism",
+    "method": "Conveyor",
+    "code": "https://github.com/conveyor-sys/conveyor",
+    "venue": "Preprint 2024",
+    "resources": [
+      "Latency"
+    ],
+    "learning": "Training-free",
+    "scenario": "LLM Serving",
+    "linkType": "Paper",
+    "notes": []
+  },
+  {
+    "id": 121,
+    "title": "Asynchronous llm function calling",
+    "authors": "Gim, I., S.s. Lee, and L. Zhong",
+    "year": 2024,
+    "citation": "Gim, I., S.s. Lee, and L. Zhong. 2024. Asynchronous llm function calling. arXiv arXiv:2412.07017.",
+    "url": "https://arxiv.org/abs/2412.07017",
+    "searchUrl": "https://scholar.google.com/scholar?q=Asynchronous%20llm%20function%20calling",
+    "stage": "Execution",
+    "subcategory": "Parallel Execution",
+    "approach": "Decoding-Tool Parallelism",
+    "method": "AsyncLM",
+    "code": "",
+    "venue": "Preprint 2024",
+    "resources": [
+      "Latency"
+    ],
+    "learning": "SFT",
+    "scenario": "General",
+    "linkType": "Paper",
+    "notes": []
+  },
+  {
+    "id": 122,
+    "title": "An llm compiler for parallel function calling",
+    "authors": "Kim, S., S. Moon, R. Tabrizi, N. Lee, M.W. Mahoney, K. Keutzer, and A. Gholami",
+    "year": 2024,
+    "citation": "Kim, S., S. Moon, R. Tabrizi, N. Lee, M.W. Mahoney, K. Keutzer, and A. Gholami. 2024. An llm compiler for parallel function calling. Proceedings of the Forty-first International Conference on Machine Learning.",
+    "url": "",
+    "searchUrl": "https://scholar.google.com/scholar?q=An%20llm%20compiler%20for%20parallel%20function%20calling",
+    "stage": "Execution",
+    "subcategory": "Parallel Execution",
+    "approach": "Inter-Tool Parallelism",
+    "method": "LLMCompiler",
+    "code": "https://github.com/SqueezeAILab/LLMCompiler",
+    "venue": "ICML 2024",
+    "resources": [
+      "Latency",
+      "Cost"
+    ],
+    "learning": "Training-free",
+    "scenario": "General",
+    "linkType": "Search",
+    "notes": [
+      "Direct paper URL not present in the extracted bibliography; title search provided."
+    ]
+  },
+  {
+    "id": 123,
+    "title": "Speculate with Memory: Lossless Acceleration for LLM Agents",
+    "authors": "Li, Y., Q. Ye, P.K. Choubey, J. Zhang, and C.S. Wu",
+    "year": 2026,
+    "citation": "Li, Y., Q. Ye, P.K. Choubey, J. Zhang, and C.S. Wu. 2026. Speculate with Memory: Lossless Acceleration for LLM Agents. arXiv arXiv:cs.",
+    "url": "",
+    "searchUrl": "https://scholar.google.com/scholar?q=Speculate%20with%20Memory%3A%20Lossless%20Acceleration%20for%20LLM%20Agents",
+    "stage": "Execution",
+    "subcategory": "Speculative Execution",
+    "approach": "Action-Level Speculation",
+    "method": "Speculate with Memory",
+    "code": "",
+    "venue": "Preprint 2026",
+    "resources": [
+      "Latency"
+    ],
+    "learning": "Training-free",
+    "scenario": "General",
+    "linkType": "Search",
+    "notes": [
+      "Direct paper URL not present in the extracted bibliography; title search provided."
+    ]
+  },
+  {
+    "id": 124,
+    "title": "SPORK: Self-Speculative Forking to Accelerate Agentic LLM Inference",
+    "authors": "Bai, H., W. Lv, H. Zheng, Y. Lu, and J. Shu",
+    "year": 2026,
+    "citation": "Bai, H., W. Lv, H. Zheng, Y. Lu, and J. Shu. SPORK: Self-Speculative Forking to Accelerate Agentic LLM Inference, 2026. arXiv arXiv:cs.",
+    "url": "",
+    "searchUrl": "https://scholar.google.com/scholar?q=SPORK%3A%20Self-Speculative%20Forking%20to%20Accelerate%20Agentic%20LLM%20Inference",
+    "stage": "Execution",
+    "subcategory": "Speculative Execution",
+    "approach": "Action-Level Speculation",
+    "method": "SPORK",
+    "code": "https://github.com/baihuajun24/spork",
+    "venue": "Preprint 2026",
+    "resources": [
+      "Latency"
+    ],
+    "learning": "Training-free",
+    "scenario": "General",
+    "linkType": "Search",
+    "notes": [
+      "Direct paper URL not present in the extracted bibliography; title search provided."
+    ]
+  },
+  {
+    "id": 125,
+    "title": "Speculative Interaction Agents: Building Real-Time Agents with Asynchronous I/O and Speculative Tool Calling",
+    "authors": "Hooper, C., M. Kang, S. Moon, N. Lee, E. Wen, J. Wawrzynek, M.W. Mahoney, Y.S. Shao, A. Gholami, and K. Keutzer",
+    "year": 2026,
+    "citation": "Hooper, C., M. Kang, S. Moon, N. Lee, E. Wen, J. Wawrzynek, M.W. Mahoney, Y.S. Shao, A. Gholami, and K. Keutzer. Speculative Interaction Agents: Building Real-Time Agents with Asynchronous I/O and Speculative Tool Calling, 2026. arXiv arXiv:cs.",
+    "url": "",
+    "searchUrl": "https://scholar.google.com/scholar?q=Speculative%20Interaction%20Agents%3A%20Building%20Real-Time%20Agents%20with%20Asynchronous%20I/O%20and%20Speculative%20Tool%20Calling",
+    "stage": "Execution",
+    "subcategory": "Speculative Execution",
+    "approach": "Action-Level Speculation",
+    "method": "Speculative Interaction Agents",
+    "code": "",
+    "venue": "Preprint 2026",
+    "resources": [
+      "Latency"
+    ],
+    "learning": "Training-free / SFT",
+    "scenario": "Voice Assistants",
+    "linkType": "Search",
+    "notes": [
+      "Direct paper URL not present in the extracted bibliography; title search provided."
+    ]
+  },
+  {
+    "id": 126,
+    "title": "Skim: Speculative Execution for Fast and Efficient Web Agents",
+    "authors": "Wong, M., K. Hsieh, S. Nath, and R. Netravali",
+    "year": 2026,
+    "citation": "Wong, M., K. Hsieh, S. Nath, and R. Netravali. Skim: Speculative Execution for Fast and Efficient Web Agents, 2026. arXiv arXiv:cs.",
+    "url": "",
+    "searchUrl": "https://scholar.google.com/scholar?q=Skim%3A%20Speculative%20Execution%20for%20Fast%20and%20Efficient%20Web%20Agents",
+    "stage": "Execution",
+    "subcategory": "Speculative Execution",
+    "approach": "System-Level Speculation",
+    "method": "Skim",
+    "code": "",
+    "venue": "Preprint 2026",
+    "resources": [
+      "Latency",
+      "Calls",
+      "Cost"
+    ],
+    "learning": "Training-free",
+    "scenario": "Web Navigation",
+    "linkType": "Search",
+    "notes": [
+      "Direct paper URL not present in the extracted bibliography; title search provided."
+    ]
+  },
+  {
+    "id": 127,
+    "title": "Speculative Actions: A Lossless Framework for Faster Agentic Systems",
+    "authors": "Ye, N., A. Ahuja, G. Liargkovas, Y. Lu, K. Kaffes, and T. Peng",
+    "year": 2025,
+    "citation": "Ye, N., A. Ahuja, G. Liargkovas, Y. Lu, K. Kaffes, and T. Peng. 2025. Speculative Actions: A Lossless Framework for Faster Agentic Systems. arXiv arXiv:cs.",
+    "url": "",
+    "searchUrl": "https://scholar.google.com/scholar?q=Speculative%20Actions%3A%20A%20Lossless%20Framework%20for%20Faster%20Agentic%20Systems",
+    "stage": "Execution",
+    "subcategory": "Speculative Execution",
+    "approach": "Action-Level Speculation",
+    "method": "Speculative Actions",
+    "code": "https://github.com/naimengye/speculative-action",
+    "venue": "ICLR 2026",
+    "resources": [
+      "Latency"
+    ],
+    "learning": "Training-free",
+    "scenario": "General",
+    "linkType": "Search",
+    "notes": [
+      "Direct paper URL not present in the extracted bibliography; title search provided."
+    ]
+  },
+  {
+    "id": 128,
+    "title": "Optimizing Agentic Language Model Inference via Speculative Tool Calls",
+    "authors": "Nichols, D., P. Singhania, C. Jekel, A. Bhatele, and H. Menon",
+    "year": 2025,
+    "citation": "Nichols, D., P. Singhania, C. Jekel, A. Bhatele, and H. Menon. 2025. Optimizing Agentic Language Model Inference via Speculative Tool Calls. arXiv arXiv:2512.15834.",
+    "url": "https://arxiv.org/abs/2512.15834",
+    "searchUrl": "https://scholar.google.com/scholar?q=Optimizing%20Agentic%20Language%20Model%20Inference%20via%20Speculative%20Tool%20Calls",
+    "stage": "Execution",
+    "subcategory": "Speculative Execution",
+    "approach": "System-Level Speculation",
+    "method": "Speculative Tool Calls",
+    "code": "",
+    "venue": "",
+    "resources": [],
+    "learning": "",
+    "scenario": "",
+    "linkType": "Paper",
+    "notes": []
+  },
+  {
+    "id": 129,
+    "title": "Stream rag: Instant and accurate spoken dialogue systems with streaming tool usage",
+    "authors": "Arora, S., H. Khan, K. Sun, X.L. Dong, S. Choudhary, S. Moon, X. Zhang, A. Sagar, S.T. Appini, K. Patnaik, and et al",
+    "year": 2025,
+    "citation": "Arora, S., H. Khan, K. Sun, X.L. Dong, S. Choudhary, S. Moon, X. Zhang, A. Sagar, S.T. Appini, K. Patnaik, and et al. 2025. Stream rag: Instant and accurate spoken dialogue systems with streaming tool usage. arXiv arXiv:2510.02044.",
+    "url": "https://arxiv.org/abs/2510.02044",
+    "searchUrl": "https://scholar.google.com/scholar?q=Stream%20rag%3A%20Instant%20and%20accurate%20spoken%20dialogue%20systems%20with%20streaming%20tool%20usage",
+    "stage": "Execution",
+    "subcategory": "Speculative Execution",
+    "approach": "System-Level Speculation",
+    "method": "Stream RAG",
+    "code": "",
+    "venue": "Preprint 2025",
+    "resources": [
+      "Latency"
+    ],
+    "learning": "SFT",
+    "scenario": "Voice Assistant",
+    "linkType": "Paper",
+    "notes": []
+  },
+  {
+    "id": 130,
+    "title": "An llm-tool compiler for fused parallel function calling",
+    "authors": "Singh, S., A. Karatzas, M. Fore, I. Anagnostopoulos, and D. Stamoulis",
+    "year": 2024,
+    "citation": "Singh, S., A. Karatzas, M. Fore, I. Anagnostopoulos, and D. Stamoulis. 2024. An llm-tool compiler for fused parallel function calling. arXiv arXiv:2405.17438.",
+    "url": "https://arxiv.org/abs/2405.17438",
+    "searchUrl": "https://scholar.google.com/scholar?q=An%20llm-tool%20compiler%20for%20fused%20parallel%20function%20calling",
+    "stage": "Execution",
+    "subcategory": "Parallel Execution",
+    "approach": "Inter-Tool Parallelism",
+    "method": "LLM-Tool Compiler",
+    "code": "",
+    "venue": "",
+    "resources": [],
+    "learning": "",
+    "scenario": "",
+    "linkType": "Paper",
+    "notes": []
+  },
+  {
+    "id": 131,
+    "title": "Hyperagents",
+    "authors": "Zhang, J., B. Zhao, W. Yang, J. Foerster, J. Clune, M. Jiang, S. Devlin, and T. Shavrina",
+    "year": 2026,
+    "citation": "Zhang, J., B. Zhao, W. Yang, J. Foerster, J. Clune, M. Jiang, S. Devlin, and T. Shavrina. 2026. Hyperagents. arXiv arXiv:cs.",
+    "url": "",
+    "searchUrl": "https://scholar.google.com/scholar?q=Hyperagents",
+    "stage": "Background",
+    "subcategory": "Future directions",
+    "approach": "",
+    "method": "HyperAgents",
+    "code": "",
+    "venue": "",
+    "resources": [],
+    "learning": "",
+    "scenario": "",
+    "linkType": "Search",
+    "notes": [
+      "Direct paper URL not present in the extracted bibliography; title search provided."
+    ]
+  },
+  {
+    "id": 132,
+    "title": "A survey on large language model based autonomous agents",
+    "authors": "Wang, L., C. Ma, X. Feng, Z. Zhang, H. Yang, J. Zhang, Z. Chen, J. Tang, X. Chen, Y. Lin, and et al",
+    "year": 2024,
+    "citation": "Wang, L., C. Ma, X. Feng, Z. Zhang, H. Yang, J. Zhang, Z. Chen, J. Tang, X. Chen, Y. Lin, and et al. 2024. A survey on large language model based autonomous agents. Frontiers of Computer Science 18: 186345.",
+    "url": "",
+    "searchUrl": "https://scholar.google.com/scholar?q=A%20survey%20on%20large%20language%20model%20based%20autonomous%20agents",
+    "stage": "Background",
+    "subcategory": "Background & related surveys",
+    "approach": "",
+    "method": "Wang et al.",
+    "code": "",
+    "venue": "",
+    "resources": [],
+    "learning": "",
+    "scenario": "",
+    "linkType": "Search",
+    "notes": [
+      "Direct paper URL not present in the extracted bibliography; title search provided."
+    ]
+  },
+  {
+    "id": 133,
+    "title": "Large language model based multi-agents: A survey of progress and challenges",
+    "authors": "Guo, T., X. Chen, Y. Wang, R. Chang, S. Pei, N.V. Chawla, O. Wiest, and X. Zhang",
+    "year": 2024,
+    "citation": "Guo, T., X. Chen, Y. Wang, R. Chang, S. Pei, N.V. Chawla, O. Wiest, and X. Zhang. 2024. Large language model based multi-agents: A survey of progress and challenges. arXiv arXiv:2402.01680.",
+    "url": "https://arxiv.org/abs/2402.01680",
+    "searchUrl": "https://scholar.google.com/scholar?q=Large%20language%20model%20based%20multi-agents%3A%20A%20survey%20of%20progress%20and%20challenges",
+    "stage": "Background",
+    "subcategory": "Background & related surveys",
+    "approach": "",
+    "method": "Large language model based multi-agents",
+    "code": "",
+    "venue": "",
+    "resources": [],
+    "learning": "",
+    "scenario": "",
+    "linkType": "Paper",
+    "notes": []
+  },
+  {
+    "id": 134,
+    "title": "Large language model agent: A survey on methodology, applications and challenges",
+    "authors": "Luo, J., W. Zhang, Y. Yuan, Y. Zhao, J. Yang, Y. Gu, B. Wu, B. Chen, Z. Qiao, Q. Long, and et al",
+    "year": 2025,
+    "citation": "Luo, J., W. Zhang, Y. Yuan, Y. Zhao, J. Yang, Y. Gu, B. Wu, B. Chen, Z. Qiao, Q. Long, and et al. 2025. Large language model agent: A survey on methodology, applications and challenges. arXiv arXiv:2503.21460.",
+    "url": "https://arxiv.org/abs/2503.21460",
+    "searchUrl": "https://scholar.google.com/scholar?q=Large%20language%20model%20agent%3A%20A%20survey%20on%20methodology%2C%20applications%20and%20challenges",
+    "stage": "Background",
+    "subcategory": "Background & related surveys",
+    "approach": "",
+    "method": "Large language model agent",
+    "code": "",
+    "venue": "",
+    "resources": [],
+    "learning": "",
+    "scenario": "",
+    "linkType": "Paper",
+    "notes": []
+  },
+  {
+    "id": 135,
+    "title": "Tool learning with large language models: A survey",
+    "authors": "Qu, C., S. Dai, X. Wei, H. Cai, S. Wang, D. Yin, J. Xu, and J.R. Wen",
+    "year": 2025,
+    "citation": "Qu, C., S. Dai, X. Wei, H. Cai, S. Wang, D. Yin, J. Xu, and J.R. Wen. 2025. Tool learning with large language models: A survey. Frontiers of Computer Science 19: 198343.",
+    "url": "",
+    "searchUrl": "https://scholar.google.com/scholar?q=Tool%20learning%20with%20large%20language%20models%3A%20A%20survey",
+    "stage": "Background",
+    "subcategory": "Background & related surveys",
+    "approach": "",
+    "method": "Tool learning with large language models",
+    "code": "",
+    "venue": "",
+    "resources": [],
+    "learning": "",
+    "scenario": "",
+    "linkType": "Search",
+    "notes": [
+      "Direct paper URL not present in the extracted bibliography; title search provided."
+    ]
+  },
+  {
+    "id": 136,
+    "title": "Survey on evaluation of llm-based agents",
+    "authors": "Yehudai, A., L. Eden, A. Li, G. Uziel, Y. Zhao, R. Bar-Haim, A. Cohan, and M. Shmueli-Scheuer",
+    "year": 2025,
+    "citation": "Yehudai, A., L. Eden, A. Li, G. Uziel, Y. Zhao, R. Bar-Haim, A. Cohan, and M. Shmueli-Scheuer. 2025. Survey on evaluation of llm-based agents. arXiv arXiv:2503.16416.",
+    "url": "https://arxiv.org/abs/2503.16416",
+    "searchUrl": "https://scholar.google.com/scholar?q=Survey%20on%20evaluation%20of%20llm-based%20agents",
+    "stage": "Background",
+    "subcategory": "Background & related surveys",
+    "approach": "",
+    "method": "Yehudai et al.",
+    "code": "",
+    "venue": "",
+    "resources": [],
+    "learning": "",
+    "scenario": "",
+    "linkType": "Paper",
+    "notes": []
+  },
+  {
+    "id": 137,
+    "title": "A survey on the optimization of large language model-based agents",
+    "authors": "Du, S., J. Zhao, J. Shi, Z. Xie, X. Jiang, Y. Bai, and L. He",
+    "year": 2026,
+    "citation": "Du, S., J. Zhao, J. Shi, Z. Xie, X. Jiang, Y. Bai, and L. He. 2026. A survey on the optimization of large language model-based agents. ACM Computing Surveys 58: 1–37.",
+    "url": "",
+    "searchUrl": "https://scholar.google.com/scholar?q=A%20survey%20on%20the%20optimization%20of%20large%20language%20model-based%20agents",
+    "stage": "Background",
+    "subcategory": "Background & related surveys",
+    "approach": "",
+    "method": "Du et al.",
+    "code": "",
+    "venue": "",
+    "resources": [],
+    "learning": "",
+    "scenario": "",
+    "linkType": "Search",
+    "notes": [
+      "Direct paper URL not present in the extracted bibliography; title search provided."
+    ]
+  },
+  {
+    "id": 138,
+    "title": "Toward Efficient Agents: Memory, Tool learning, and Planning",
+    "authors": "Yang, X., L. Li, H. Zhou, T. Zhu, X. Qu, Y. Fan, Q. Wei, R. Ye, L. Kang, Y. Qin, and et al",
+    "year": 2026,
+    "citation": "Yang, X., L. Li, H. Zhou, T. Zhu, X. Qu, Y. Fan, Q. Wei, R. Ye, L. Kang, Y. Qin, and et al. 2026. Toward Efficient Agents: Memory, Tool learning, and Planning. arXiv arXiv:2601.14192.",
+    "url": "https://arxiv.org/abs/2601.14192",
+    "searchUrl": "https://scholar.google.com/scholar?q=Toward%20Efficient%20Agents%3A%20Memory%2C%20Tool%20learning%2C%20and%20Planning",
+    "stage": "Background",
+    "subcategory": "Background & related surveys",
+    "approach": "",
+    "method": "Toward Efficient Agents",
+    "code": "",
+    "venue": "",
+    "resources": [],
+    "learning": "",
+    "scenario": "",
+    "linkType": "Paper",
+    "notes": []
+  },
+  {
+    "id": 139,
+    "title": "ToolLLM: Facilitating Large Language Models to Master 16000+ Real-world APIs",
+    "authors": "Qin, Y., S. Liang, Y. Ye, K. Zhu, L. Yan, Y. Lu, Y. Lin, X. Cong, X. Tang, B. Qian, and et al",
+    "year": 2023,
+    "citation": "Qin, Y., S. Liang, Y. Ye, K. Zhu, L. Yan, Y. Lu, Y. Lin, X. Cong, X. Tang, B. Qian, and et al. 2023. ToolLLM: Facilitating Large Language Models to Master 16000+ Real-world APIs. arXiv arXiv:2307.16789.",
+    "url": "https://arxiv.org/abs/2307.16789",
+    "searchUrl": "https://scholar.google.com/scholar?q=ToolLLM%3A%20Facilitating%20Large%20Language%20Models%20to%20Master%2016000%2B%20Real-world%20APIs",
+    "stage": "Background",
+    "subcategory": "Background & related surveys",
+    "approach": "",
+    "method": "ToolLLM",
+    "code": "",
+    "venue": "",
+    "resources": [],
+    "learning": "",
+    "scenario": "",
+    "linkType": "Paper",
+    "notes": []
+  }
+]
