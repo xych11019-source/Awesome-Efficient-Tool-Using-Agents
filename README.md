@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">Yunuo Hu · Ziyang Cheng · Wenqi Pei · Miaomiao Li · Boyan Li · Yizhang Zhu<br>Yupeng Xie · Han Chen · Shizheng Hou · Yuyu Luo · Hongyang Du</p>
-<p align="center"><a href="https://www.preprints.org/manuscript/202608.0365">📄 Paper ↗</a> &nbsp; · &nbsp; <a href="#reading-list">📚 Reading List</a> &nbsp; · &nbsp; <a href="#citation">📝 Cite This Survey</a></p>
+<p align="center"><a href="https://www.preprints.org/manuscript/202608.0365">📄 Paper ↗</a> &nbsp; · &nbsp; <a href="#survey-overview">🖼️ Overview</a> &nbsp; · &nbsp; <a href="#reading-list">📚 Reading List</a> &nbsp; · &nbsp; <a href="#citation">📝 Cite This Survey</a></p>
 
 <a id="about"></a>
 
@@ -23,6 +23,15 @@ Tool-using agents spend resources on context, invocation decisions, reasoning tr
 The survey tracks four resources: **tokens**, **tool calls**, **latency**, and **monetary cost**. Improvements across studies use different settings and should not be interpreted as a common performance ranking.
 
 > Preprint: [Version 1, posted 6 August 2026](https://www.preprints.org/manuscript/202608.0365). Literature coverage ends in July 2026. Source snapshot: 13 November 2026.
+
+<a id="survey-overview"></a>
+
+## 🖼️ Survey Overview
+
+<p align="center">
+  <a href="figs/meta.png"><img src="figs/meta.png" width="100%" alt="Survey overview: efficiency techniques across tool context, tool calling, tool reasoning, and tool execution"></a>
+</p>
+<p align="center"><em>The four stages of efficient tool-using LLM agents. Click the figure to view it at full resolution.</em></p>
 
 <a id="navigation"></a>
 
