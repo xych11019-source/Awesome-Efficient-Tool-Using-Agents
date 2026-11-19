@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">How to Make Tool-Using LLM Agents Efficient?</h1>
-<p align="center"><strong>🎉 Accepted at EACL 2026</strong><br>A Survey · A Structured Reading List</p>
+<p align="center"><strong>🎉 Accepted at EACL 2027</strong><br>A Survey · A Structured Reading List</p>
 <p align="center">
   <a href="https://www.preprints.org/manuscript/202608.0365"><img src="assets/badge-survey.svg" alt="Read the survey"></a>
   <img src="assets/badge-references.svg" alt="139 references">
@@ -11,7 +11,11 @@
   <img src="assets/badge-coverage.svg" alt="Literature coverage through July 2026">
 </p>
 
-<p align="center">Yunuo Hu · Ziyang Cheng · Wenqi Pei · Miaomiao Li · Boyan Li · Yizhang Zhu<br>Yupeng Xie · Han Chen · Shizheng Hou · Yuyu Luo · Hongyang Du</p>
+<p align="center">
+  Yunuo Hu<sup>*</sup> · Ziyang Cheng<sup>*</sup> · Wenqi Pei<sup>*</sup> · Miaomiao Li · Boyan Li · Yizhang Zhu<br>
+  Yupeng Xie · Han Chen · Shizheng Hou · Yuyu Luo · Hongyang Du<br>
+  <sup>*</sup> Equal contribution.
+</p>
 <p align="center"><a href="https://www.preprints.org/manuscript/202608.0365">📄 Paper ↗</a> &nbsp; · &nbsp; <a href="#survey-overview">🖼️ Overview</a> &nbsp; · &nbsp; <a href="#reading-list">📚 Reading List</a> &nbsp; · &nbsp; <a href="#citation">📝 Cite This Survey</a></p>
 
 <a id="about"></a>
